@@ -1,0 +1,55 @@
+{
+  "name": "Gold_to_Delta_and_ML",
+  "email_notifications": {
+    "no_alert_for_skipped_runs": false
+  },
+  "timeout_seconds": 14400,
+  "max_concurrent_runs": 1,
+  "tasks": [
+    {
+      "task_key": "setup_mount",
+      "notebook_task": {
+        "notebook_path": "NOTEBOOK_BASE/01_setup_mount",
+        "base_parameters": {}
+      },
+      "job_cluster_key": "shared_cluster"
+    },
+    {
+      "task_key": "ingest_gold",
+      "depends_on": [ { "task_key": "setup_mount" } ],
+      "notebook_task": {
+        "notebook_path": "NOTEBOOK_BASE/02_ingest_gold_to_delta",
+        "base_parameters": {}
+      },
+      "job_cluster_key": "shared_cluster"
+    },
+    {
+      "task_key": "train_models",
+      "depends_on": [ { "task_key": "ingest_gold" } ],
+      "notebook_task": {
+        "notebook_path": "NOTEBOOK_BASE/03_train_predictive_models",
+        "base_parameters": {}
+      },
+      "job_cluster_key": "shared_cluster"
+    }
+  ],
+  "job_clusters": [
+    {
+      "job_cluster_key": "shared_cluster",
+      "new_cluster": {
+        "spark_version": "13.3.x-scala2.12",
+        "node_type_id": "Standard_DS3_v2",
+        "num_workers": 2,
+        "azure_attributes": {
+          "availability": "ON_DEMAND_AZURE",
+          "first_on_demand": 1,
+          "spot_bid_max_price": -1
+        },
+        "spark_env_vars": {
+          "PYSPARK_PYTHON": "/databricks/python3/bin/python3"
+        },
+        "data_security_mode": "SINGLE_USER"
+      }
+    }
+  ]
+}

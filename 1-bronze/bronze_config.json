@@ -1,0 +1,24 @@
+{
+  "azure_storage": {
+    "connection_string": "BlobEndpoint=https://adls4aldreesanalytics.blob.core.windows.net/;QueueEndpoint=https://adls4aldreesanalytics.queue.core.windows.net/;FileEndpoint=https://adls4aldreesanalytics.file.core.windows.net/;TableEndpoint=https://adls4aldreesanalytics.table.core.windows.net/;SharedAccessSignature=sv=2024-11-04&ss=bfqt&srt=sco&sp=rwdlacupyx&se=2025-10-30T22:33:33Z&st=2025-10-05T14:18:33Z&spr=https,http&sig=wY1x4qc%2By12F0C7%2FPCLf2DobgMLlflwB2VEbWKu1DhE%3D",
+    "container_name": "bronze",
+    "sas_token": "sv=2024-11-04&ss=bfqt&srt=sco&sp=rwdlacupyx&se=2025-10-30T22:33:33Z&st=2025-10-05T14:18:33Z&spr=https,http&sig=wY1x4qc%2By12F0C7%2FPCLf2DobgMLlflwB2VEbWKu1DhE%3D"
+  },
+    "monitoring": {
+        "raw_data_path": "../raw_data",
+    "check_interval": 60,
+    "upload_delay": 5,
+    "enable_real_time": true
+  },
+  "file_processing": {
+    "validate_csv": true,
+    "calculate_hash": true,
+    "partition_by_date": true,
+    "overwrite_existing": true
+  },
+  "logging": {
+    "level": "INFO",
+    "log_file": "bronze_layer_processing.log",
+    "monitor_log_file": "bronze_layer_monitoring.log"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "azure_storage": {
+    "account_name": "adls4aldreesanalytics",
+    "connection_string": "BlobEndpoint=https://adls4aldreesanalytics.blob.core.windows.net/;QueueEndpoint=https://adls4aldreesanalytics.queue.core.windows.net/;FileEndpoint=https://adls4aldreesanalytics.file.core.windows.net/;TableEndpoint=https://adls4aldreesanalytics.table.core.windows.net/;SharedAccessSignature=sv=2024-11-04&ss=bfqt&srt=sco&sp=rwdlacupyx&se=2025-10-30T22:33:33Z&st=2025-10-05T14:18:33Z&spr=https,http&sig=wY1x4qc%2By12F0C7%2FPCLf2DobgMLlflwB2VEbWKu1DhE%3D",
+    "silver_container": "silver",
+    "gold_container": "gold",
+    "sas_token": "sv=2024-11-04&ss=bfqt&srt=sco&sp=rwdlacupyx&se=2025-10-30T22:33:33Z&st=2025-10-05T14:18:33Z&spr=https,http&sig=wY1x4qc%2By12F0C7%2FPCLf2DobgMLlflwB2VEbWKu1DhE%3D"
+  },
+  "dimensional_modeling": {
+    "create_dimensions": true,
+    "create_facts": true,
+    "create_time_dimension": true,
+    "add_surrogate_keys": true
+  },
+  "dimensions": {
+    "dim_customer": {
+      "enabled": true,
+      "columns": ["customer_id", "customer_name", "customer_email", "customer_phone", "customer_type"]
+    },
+    "dim_product": {
+      "enabled": true,
+      "columns": ["product_id", "product_name", "product_category", "product_price", "product_weight"]
+    },
+    "dim_vehicle": {
+      "enabled": true,
+      "columns": ["vehicle_id", "vehicle_type", "make", "model", "year", "capacity", "fuel_type"]
+    },
+    "dim_supplier": {
+      "enabled": true,
+      "columns": ["supplier_id", "supplier_name", "contact_person", "email", "phone", "rating"]
+    },
+    "dim_warehouse": {
+      "enabled": true,
+      "columns": ["warehouse_id", "warehouse_name", "location", "city", "country", "capacity"]
+    },
+    "dim_geography": {
+      "enabled": true,
+      "columns": ["city", "country", "latitude", "longitude", "region"]
+    },
+    "dim_time": {
+      "enabled": true,
+      "date_range_years": 2,
+      "include_holidays": false
+    }
+  },
+  "facts": {
+    "fact_orders": {
+      "enabled": true,
+      "columns": ["order_id", "customer_id", "product_id", "order_date", "quantity", "unit_price", "total_amount"]
+    },
+    "fact_performance": {
+      "enabled": true,
+      "columns": ["vehicle_id", "date", "distance_traveled", "fuel_consumed", "delivery_time", "efficiency_score"]
+    },
+    "fact_fuel_consumption": {
+      "enabled": true,
+      "columns": ["vehicle_id", "date", "fuel_type", "fuel_consumed", "cost", "efficiency"]
+    },
+    "fact_inventory": {
+      "enabled": true,
+      "columns": ["product_id", "warehouse_id", "date", "quantity_on_hand", "quantity_ordered", "quantity_sold"]
+    }
+  },
+  "kpis": {
+    "revenue_kpis": {
+      "enabled": true,
+      "metrics": ["daily_revenue", "monthly_revenue", "avg_order_value", "order_count"]
+    },
+    "performance_kpis": {
+      "enabled": true,
+      "metrics": ["fuel_efficiency", "delivery_time", "efficiency_score", "distance_traveled"]
+    },
+    "inventory_kpis": {
+      "enabled": true,
+      "metrics": ["turnover_ratio", "stock_levels", "reorder_points"]
+    },
+    "supply_chain_kpis": {
+      "enabled": true,
+      "metrics": ["on_time_delivery_rate", "fulfillment_rate", "cost_efficiency_ratio"]
+    }
+  },
+  "analytics_views": {
+    "revenue_analytics": {
+      "enabled": true,
+      "description": "Revenue analysis with time dimensions"
+    },
+    "performance_analytics": {
+      "enabled": true,
+      "description": "Vehicle performance analysis"
+    },
+    "inventory_analytics": {
+      "enabled": true,
+      "description": "Inventory turnover and stock analysis"
+    }
+  },
+  "data_quality": {
+    "validate_relationships": true,
+    "check_referential_integrity": true,
+    "handle_missing_keys": true
+  },
+  "logging": {
+    "level": "INFO",
+    "log_file": "gold_layer_processing.log"
+  }
+}

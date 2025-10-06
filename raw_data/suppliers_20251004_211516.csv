@@ -1,0 +1,1001 @@
+supplier_id,supplier_name,contact_person,phone,email,address,city,country,supplier_type,credit_rating,payment_terms,lead_time_days,quality_rating,on_time_delivery_rate,total_orders,total_value_sar,certifications,created_at
+SUP5846,Chevron,Tammy Price,466-550-5110x8356,amanda00@example.org,"1913 Foster Manor
+East Bobfort, SC 08200",Kuwait,Bahrain,Fuel Supplier,B+,Net 15,4,4.9,0.873,961,1232957.1,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.445133
+SUP4842,Maintenance Services,Sandra Michael,+1-308-270-2227x20170,awilson@example.net,"27086 Mccullough Mountains Apt. 493
+Janiceport, TN 60986",Dubai,Kuwait,Service Provider,C,Prepaid,18,3.6,0.948,916,4405838.31,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.449290
+SUP7821,Safety Equipment,Jonathan Marshall,660-983-6611,aaron77@example.com,"384 Sarah Roads Apt. 768
+Brucefort, MI 39154",Dammam,Bahrain,Equipment Supplier,B+,Prepaid,13,3.7,0.933,14,5938827.11,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.450339
+SUP2459,Chevron,Kevin Williams,6867382400,kayleesmith@example.org,"2158 Atkinson Squares Suite 411
+Amandaton, LA 93283",Riyadh,Bahrain,Fuel Supplier,B+,COD,2,4.5,0.96,562,3061071.18,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.451361
+SUP1513,BP,Sandra Wells,(873)765-7558,tylermalone@example.net,"146 Bailey Circle
+South Meganside, TX 73388",Kuwait,Qatar,Fuel Supplier,B+,Net 15,22,4.6,0.952,899,874661.89,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.452061
+SUP7833,Safety Equipment,Tiffany Watts,(810)714-3951x09125,ihenson@example.org,"056 Moon Haven
+South Michaelstad, AS 01303",Dammam,Qatar,Equipment Supplier,B+,Net 15,7,3.6,0.921,608,8379625.85,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.452686
+SUP6732,MAN Parts,Corey Jones,(435)637-5530x67329,fhood@example.net,"Unit 7876 Box 5575
+DPO AP 07292",Riyadh,UAE,Parts Supplier,C,Net 30,25,4.9,0.88,160,1410467.29,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.453087
+SUP3480,Safety Equipment,Megan Kim,8803497153,renee69@example.com,"18436 Jason Shoals Apt. 212
+North Dominique, AS 63624",Dammam,Bahrain,Equipment Supplier,A,COD,15,4.8,0.963,925,4058491.2,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.453640
+SUP9986,Technology Equipment,Amber Huber,+1-356-684-4944x984,david81@example.com,"60264 Vernon Stravenue Apt. 907
+Smithmouth, NH 23090",Dammam,Qatar,Equipment Supplier,A,Net 30,6,4.7,0.931,651,3731505.75,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.454235
+SUP1161,Warehousing,Lisa Beck,512.227.1815x583,nancy35@example.com,"PSC 6475, Box 0658
+APO AA 59505",Dubai,UAE,Logistics Partner,B,COD,4,4.0,0.962,583,4874454.48,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.454602
+SUP6167,Mercedes Parts,Lisa Perez,9965926521,harrisnicole@example.org,"18489 Mcguire Manor
+South Michaelville, IN 68781",Riyadh,Saudi Arabia,Parts Supplier,A,Prepaid,4,3.9,0.952,913,7626944.37,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.455279
+SUP8529,Total,Stephanie Lynch,241-934-8158x395,donald37@example.org,"Unit 4309 Box 7675
+DPO AA 23980",Dammam,Bahrain,Fuel Supplier,A,Prepaid,3,3.9,0.975,646,2124267.62,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.455645
+SUP7034,MAN Parts,Kathleen Bailey,920.294.8936x864,jgarza@example.com,"79989 Clark Well
+Garciaside, AZ 38297",Dammam,Qatar,Parts Supplier,A,COD,5,3.9,0.91,602,9830166.19,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.456283
+SUP3290,Warehousing,Austin Davis,7748702922,joshuariddle@example.net,"Unit 2686 Box 4649
+DPO AE 51358",Doha,UAE,Logistics Partner,C,COD,29,3.6,0.873,77,8607483.16,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.456742
+SUP9305,Technology Equipment,Dana Williams,671.341.4367,christinehumphrey@example.com,"19476 Ochoa Rue
+Stephenshire, WA 93082",Jeddah,UAE,Equipment Supplier,B+,COD,1,3.6,0.927,116,1972232.01,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.457413
+SUP2386,Consulting Services,Amy Hines,720.771.5436x9591,michael79@example.org,"2180 Paul Station Apt. 057
+Lake Allen, TN 55999",Dammam,UAE,Service Provider,C,Net 30,22,4.8,0.882,135,4987922.21,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.457967
+SUP7133,Technology Equipment,Victor Ford,(285)239-1517x6441,ddillon@example.net,"8662 Barrera Station Suite 939
+Port Barbara, TX 56945",Doha,Qatar,Equipment Supplier,A,Net 15,21,4.9,0.959,951,6359938.34,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.458588
+SUP6248,MAN Parts,Dustin Young,7354284258,amandajackson@example.com,"245 James Spur
+Parkerburgh, NC 72424",Jeddah,Bahrain,Parts Supplier,B,Net 15,15,4.3,0.895,295,1280397.98,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.459286
+SUP6233,Technology Equipment,Leslie Williams,(724)568-3475x679,fordmargaret@example.com,"731 Joshua Bypass
+New Andrewton, DE 99620",Riyadh,Bahrain,Equipment Supplier,A,Net 15,6,4.1,0.976,397,1665308.34,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.459929
+SUP8021,Mercedes Parts,Joe Fritz,3693127463,antonio51@example.net,"Unit 6315 Box 6342
+DPO AE 08540",Dammam,Saudi Arabia,Parts Supplier,C,Net 15,28,3.7,0.895,310,2625538.6,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.460295
+SUP3724,Consulting Services,Johnny Hood,+1-785-351-2084x46764,langpaula@example.com,"531 Ross Wall
+New Michael, CA 67025",Kuwait,UAE,Service Provider,B,COD,16,3.8,0.938,270,2085532.71,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.460968
+SUP3307,Maintenance Services,Marie Johnson,+1-678-524-8185x0853,liurhonda@example.net,"097 Peggy Throughway
+South Juliabury, MP 54885",Doha,Bahrain,Service Provider,A,Net 15,9,4.3,0.871,125,2810445.1,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.461615
+SUP2289,Heavy Equipment,Andrew Jones,001-908-271-9860x0303,adamsmarie@example.org,"07201 Kaitlyn Vista
+Lake Susanfort, TN 42265",Doha,Saudi Arabia,Equipment Supplier,A,COD,13,4.7,0.959,917,5764542.03,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.462265
+SUP2145,Volvo Parts,Gloria Martinez,8315646205,wkelly@example.com,"09167 Long Villages Apt. 830
+Port Stephanieburgh, IA 78621",Doha,Saudi Arabia,Parts Supplier,B,COD,18,3.7,0.94,159,8149642.32,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.462896
+SUP5634,Volvo Parts,Anna Snyder,+1-675-812-5942x3817,ojohnson@example.net,"108 Pena Stravenue Apt. 988
+Williambury, AZ 23125",Dubai,Bahrain,Parts Supplier,C,COD,12,3.7,0.927,742,2417702.32,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.464587
+SUP7860,Warehousing,Stacey Stephens,(373)710-4214x4331,annanguyen@example.org,"038 Goodman Roads Suite 745
+East Heatherside, MH 15559",Dammam,Kuwait,Logistics Partner,B,Net 15,18,3.7,0.875,659,7457966.58,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.465830
+SUP2005,Maintenance Services,Katrina Washington,+1-299-780-0333x22476,dustin58@example.org,"7509 Sally Isle Apt. 468
+Phillipville, AL 99938",Doha,Qatar,Service Provider,B+,Net 30,24,4.2,0.913,256,594831.8,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.466436
+SUP3229,Aramco,Gregory Pope,923-302-6713x685,lmcknight@example.net,"9973 Chapman Corners
+Ericchester, WA 99401",Riyadh,Saudi Arabia,Fuel Supplier,A+,COD,8,4.4,0.875,225,930794.21,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.467055
+SUP3802,Chevron,Brett Henry,282-411-2734x498,karengregory@example.org,"37061 Robin Fall Suite 531
+Port Jennifer, CO 77419",Riyadh,Bahrain,Fuel Supplier,A,Net 15,5,4.4,0.952,193,5504744.87,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.467720
+SUP8600,Safety Equipment,Sharon Edwards,+1-918-669-2507,danielle85@example.net,"4008 Mariah Branch Suite 676
+East Carolineberg, UT 15444",Kuwait,UAE,Equipment Supplier,B,COD,25,4.4,0.964,701,6600950.99,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.468288
+SUP8453,Iveco Parts,Kevin Rogers,(402)565-2423x388,careyalex@example.net,"330 Mary Knolls
+South Robert, WV 25336",Dammam,Kuwait,Parts Supplier,B,Net 30,3,4.3,0.89,247,8188586.16,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.468929
+SUP8738,Volvo Parts,Wesley Alexander,(624)250-1296,wilsondavid@example.com,"5278 Teresa Brooks Apt. 393
+North Kathryn, PW 34695",Jeddah,Saudi Arabia,Parts Supplier,C,Net 30,3,3.8,0.954,361,575091.46,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.469581
+SUP3937,Distribution,Eric Smith,925-538-8836x41073,chelseahenderson@example.org,"982 Moore Camp Suite 367
+Timothyland, MH 38478",Dammam,Kuwait,Logistics Partner,A,Prepaid,25,4.7,0.887,295,7133837.67,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.470279
+SUP8381,Heavy Equipment,Margaret Gilbert,374-992-5435,jacobshepard@example.net,"PSC 0937, Box 1251
+APO AE 63727",Dubai,Bahrain,Equipment Supplier,B+,Net 30,24,4.9,0.878,578,7538639.62,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.470742
+SUP8562,BP,Gabriel Frost,405.701.1190,marioweaver@example.com,"739 Nicole Fork
+New Sharonmouth, AR 84615",Riyadh,Saudi Arabia,Fuel Supplier,A+,Net 30,7,4.2,0.93,511,5380147.37,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.471384
+SUP9680,Total,Jody Braun,354-896-0661,garciadavid@example.com,"80456 Ryan Summit Suite 402
+Lake Joelburgh, RI 40336",Riyadh,Qatar,Fuel Supplier,C,Net 30,10,4.0,0.952,817,2167859.95,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.472230
+SUP3610,Maintenance Services,Nathan Hill,206.979.0098,brockemily@example.org,"104 Hall Row
+Hartshire, VA 52055",Dubai,Qatar,Service Provider,B+,COD,1,3.5,0.908,75,9990556.89,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.472941
+SUP5336,Aramco,Debra Gordon,908.718.4915,irichardson@example.com,"45605 Richards Parks
+Cunninghamview, GA 95704",Dubai,Kuwait,Fuel Supplier,B,Prepaid,2,4.0,0.946,783,7452639.24,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.473577
+SUP4180,Shell,John Oneal,351-693-7628x9540,gjohnson@example.net,"95838 Hayes Rue
+Port Patrickchester, DE 10963",Riyadh,Qatar,Fuel Supplier,B+,COD,13,4.1,0.903,858,7697764.91,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.474195
+SUP5977,Total,Sarah Pineda,203.832.2206,rogerslaura@example.org,"148 Alexander Inlet
+East Joseph, MA 18629",Kuwait,Qatar,Fuel Supplier,A+,Net 30,1,4.1,0.963,405,7590474.8,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.474863
+SUP7218,Logistics Services,Ashley Collins,(891)216-5029x1834,cweaver@example.org,"USNS Henson
+FPO AE 80297",Riyadh,Bahrain,Service Provider,B+,COD,10,3.8,0.909,428,2393085.83,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.475352
+SUP1663,Heavy Equipment,Heidi Mcclain MD,898-607-8374x76261,nathan79@example.org,"40047 Baldwin Radial
+South Aaronfort, CT 66735",Kuwait,Saudi Arabia,Equipment Supplier,A+,Prepaid,17,3.9,0.898,307,5386837.3,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.475951
+SUP7250,Aramco,Jessica Brennan,810-767-1014x16399,jeffrey89@example.net,"7660 Taylor Rest
+Nicholsfurt, PR 91116",Jeddah,Kuwait,Fuel Supplier,C,COD,16,3.8,0.892,948,8015136.76,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.476557
+SUP3605,Heavy Equipment,Nicole Carpenter,(357)585-6339x853,justinellison@example.org,"4109 Matthew Mission Apt. 915
+Wilkinstown, ID 44824",Dammam,Saudi Arabia,Equipment Supplier,A+,Net 30,1,4.0,0.867,236,5611258.39,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.477244
+SUP4140,Iveco Parts,Jon Mendoza,369-484-0337x71698,roberthawkins@example.net,"1680 Michelle Pike Suite 851
+South Christopher, NY 11795",Riyadh,Saudi Arabia,Parts Supplier,B+,Net 15,2,3.6,0.976,503,106459.09,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.477908
+SUP2310,Technology Equipment,Sherri Gonzalez,+1-966-899-9317x84370,riosbrian@example.com,"295 Travis Land Suite 376
+Georgemouth, VT 60500",Riyadh,UAE,Equipment Supplier,C,Net 30,16,3.5,0.94,740,4040250.98,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.478566
+SUP9218,Warehousing,Mary Walker,001-718-583-0354x543,elutz@example.org,"8833 Buckley Trafficway
+East Sandra, AL 84695",Jeddah,Saudi Arabia,Logistics Partner,C,Net 15,18,3.9,0.929,292,9723956.4,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.479167
+SUP3315,Transportation,Andrew Turner,+1-748-517-7692x791,shanereed@example.org,"0796 Wu Brooks
+South Amanda, ND 20403",Kuwait,Saudi Arabia,Logistics Partner,B+,Prepaid,16,3.6,0.913,763,8933661.67,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.479841
+SUP5643,Maintenance Services,Vanessa Cortez,9264294294,boltonjamie@example.org,"055 Angela Dale Suite 243
+Brittanyshire, ND 53618",Riyadh,UAE,Service Provider,C,Prepaid,30,4.5,0.883,307,2209854.78,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.481391
+SUP7729,Volvo Parts,Dr. Jackie Lopez DDS,770.762.0860x41664,kristen41@example.com,"PSC 9664, Box 5761
+APO AA 16418",Doha,Kuwait,Parts Supplier,B+,Net 15,8,4.8,0.895,334,5290393.2,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.482349
+SUP6761,Maintenance Services,Jennifer Valdez,+1-608-753-3669x5572,woodsmallory@example.org,"7813 White Mountain Apt. 841
+Emilyborough, AZ 97684",Jeddah,Saudi Arabia,Service Provider,A,Net 30,1,4.4,0.882,222,9929078.62,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.483344
+SUP7766,Logistics Services,Karen Maynard,+1-705-318-3414x08706,eguerrero@example.com,"1573 Harper Ford Suite 335
+New Jose, WA 84748",Kuwait,Saudi Arabia,Service Provider,C,COD,4,4.0,0.95,584,5778999.1,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.484062
+SUP2005,Chevron,Olivia Bauer,001-322-598-0658,klee@example.org,"6979 Megan Camp Apt. 587
+East Kevin, OH 24369",Dubai,Bahrain,Fuel Supplier,A+,Net 15,21,4.1,0.854,544,7591533.69,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.484677
+SUP1463,Maintenance Services,Catherine Lambert,+1-248-688-9920,william64@example.org,"607 Torres Point Apt. 560
+New Garrett, MA 70142",Doha,Kuwait,Service Provider,B+,Net 15,2,3.9,0.977,807,8140686.44,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.485276
+SUP7442,Warehousing,Vincent Hernandez,001-676-696-9758,ashleypugh@example.net,"05945 Wendy Plains Apt. 298
+Barbermouth, WA 61328",Jeddah,UAE,Logistics Partner,A+,Net 15,15,4.2,0.973,272,2000796.47,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.485981
+SUP1966,Technology Equipment,Edward Duran,4095604536,ufrancis@example.org,"7867 Kelly Harbor
+Lake Dustinville, IA 64528",Riyadh,UAE,Equipment Supplier,B+,Prepaid,6,4.8,0.928,881,8572206.25,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.486777
+SUP2527,MAN Parts,Michael Delgado,233.916.1011x9253,ruth04@example.net,"600 Connor Spurs
+Williambury, AZ 07580",Kuwait,UAE,Parts Supplier,A,COD,16,4.2,0.944,576,1581874.67,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.487509
+SUP6382,Distribution,Kayla Rice,+1-861-249-8418x645,juliespencer@example.com,"0681 Delacruz Centers
+Bentleyview, TX 39862",Doha,UAE,Logistics Partner,B,Net 15,14,3.7,0.887,614,4929659.37,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.488414
+SUP6480,Warehousing,Stefanie Jones,001-614-833-3945x57288,robert68@example.com,"7571 Deborah Vista Apt. 108
+Jamesmouth, NY 01469",Dammam,UAE,Logistics Partner,A,Net 15,21,3.6,0.893,978,807697.78,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.489149
+SUP1733,Consulting Services,Holly Peterson,+1-686-648-0392x537,brendagonzalez@example.com,"9628 Mark Crossroad
+Henrybury, UT 39017",Doha,Saudi Arabia,Service Provider,A,Prepaid,18,4.2,0.878,558,7985841.06,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.489975
+SUP6444,Iveco Parts,Angela Peterson,(608)442-6405,canderson@example.com,"88901 Cassandra Inlet Apt. 463
+Maystad, UT 45759",Kuwait,Qatar,Parts Supplier,B,Net 15,16,5.0,0.926,646,3771282.97,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.490723
+SUP1824,Mercedes Parts,Ellen Cantrell,001-477-877-1201x20581,jesse19@example.net,"642 Farrell Landing Suite 442
+Garciafort, MP 05234",Jeddah,Saudi Arabia,Parts Supplier,A,Prepaid,30,4.1,0.968,126,1112164.54,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.491402
+SUP9282,Aramco,Carol Jones,+1-575-971-5864x00354,brian24@example.org,"27828 Grant Lane Apt. 733
+Stacyland, WY 67709",Riyadh,UAE,Fuel Supplier,A,Net 15,19,4.4,0.912,185,7163621.67,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.492223
+SUP7932,Shell,Connor Mitchell,840-828-7008,tinaoconnor@example.net,"8103 Jacob Station
+Port Amy, VA 10793",Dammam,Saudi Arabia,Fuel Supplier,B,Net 30,18,3.9,0.889,735,425754.29,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.492941
+SUP7054,Safety Equipment,Travis Burns,902.975.6423,bwilliams@example.org,"989 Regina Village Suite 444
+Boonehaven, DC 57973",Jeddah,Qatar,Equipment Supplier,C,COD,13,4.4,0.864,28,8060030.9,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.493591
+SUP8392,MAN Parts,Lisa Madden,(904)210-0218x55988,kaylawhite@example.net,"5250 Mitchell Centers
+Gibsonton, AZ 61844",Riyadh,Saudi Arabia,Parts Supplier,B,Net 15,29,4.2,0.905,172,9235175.64,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.494330
+SUP3946,Chevron,Amber Beard,+1-509-635-6685x7587,mccoyjackson@example.net,"1282 Julie Field
+Thomasmouth, AL 28382",Kuwait,Qatar,Fuel Supplier,C,Net 15,11,3.9,0.923,539,4578381.87,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.494976
+SUP5506,Consulting Services,Jennifer Cummings,001-706-399-2453x25573,oliviagonzales@example.org,"8706 Barnes Curve
+East Jamesville, VT 49296",Dubai,Saudi Arabia,Service Provider,B,COD,5,4.7,0.853,826,9747184.64,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.495662
+SUP8083,Heavy Equipment,Brandon Mejia,867.377.6238x494,taylorkathleen@example.net,"PSC 8538, Box 2486
+APO AA 94016",Kuwait,Saudi Arabia,Equipment Supplier,A,Prepaid,30,3.6,0.895,103,7415153.51,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.496140
+SUP7486,Distribution,Kenneth Blankenship,3709977430,wolfestephen@example.net,"44927 Pena Course Suite 705
+Jacksonberg, MS 67349",Kuwait,Saudi Arabia,Logistics Partner,A+,COD,20,4.5,0.912,417,5592004.65,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.498344
+SUP5030,BP,Pamela Wilson,987.706.3990x9136,benjaminmitchell@example.net,"47735 Adam Freeway Apt. 145
+Maryland, WI 07177",Dammam,Qatar,Fuel Supplier,A+,COD,2,3.6,0.968,191,1440070.01,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.499334
+SUP5088,Consulting Services,Emily Mcdaniel,987-620-2248x67484,davidanderson@example.net,"Unit 1120 Box 2709
+DPO AP 77396",Dubai,Bahrain,Service Provider,B,Net 30,30,4.3,0.874,305,1219275.01,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.499844
+SUP7852,Logistics Services,Laura Lopez,439.731.4605,crobinson@example.org,"107 Kathleen Via Suite 032
+New Diana, AL 80375",Dubai,Saudi Arabia,Service Provider,A+,Net 30,24,4.3,0.972,184,5907446.0,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.500455
+SUP2917,Chevron,Casey Gonzalez,001-998-498-1366x336,zriggs@example.org,"77267 Molly Prairie Suite 306
+Tinatown, WY 53837",Jeddah,Bahrain,Fuel Supplier,B,Net 30,28,3.9,0.966,221,5536992.56,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.501049
+SUP9239,MAN Parts,Dana Welch,(605)614-3941x0111,melissa07@example.org,"560 Amy Lane
+Brooksberg, RI 49613",Doha,Qatar,Parts Supplier,B,COD,23,3.7,0.914,623,8257828.1,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.501629
+SUP5418,Volvo Parts,Alice Nelson,+1-995-585-8516,freemanrussell@example.com,"1416 Bradley Extensions
+Bridgetville, FL 18467",Doha,Bahrain,Parts Supplier,C,Prepaid,30,3.8,0.866,111,1497809.4,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.502304
+SUP9208,Safety Equipment,Robert Carpenter,(272)268-7037x3035,cherylgarcia@example.org,"09303 Moore Ridge Suite 753
+New Katherine, OK 10071",Kuwait,Bahrain,Equipment Supplier,C,Prepaid,2,3.9,0.906,248,4716470.28,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.503145
+SUP4402,Distribution,Wanda Rojas,(397)920-8562x4450,christopher24@example.net,"45066 Johnson Throughway
+South Scott, DE 44358",Kuwait,Kuwait,Logistics Partner,C,Net 15,21,4.8,0.894,258,4505371.07,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.503737
+SUP5491,Warehousing,Joshua Brewer,+1-618-767-5081x30301,barbara35@example.com,"98302 Raven Passage Suite 146
+Markmouth, FM 11919",Dammam,Qatar,Logistics Partner,A+,COD,8,4.5,0.85,490,4278911.22,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.504309
+SUP1529,Technology Equipment,Stephen Perry,001-539-426-0579,tmartinez@example.net,"183 Wood Trail Suite 215
+Port Edgar, KY 86094",Dubai,UAE,Equipment Supplier,B+,COD,26,3.8,0.919,50,5974442.72,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.504931
+SUP3518,Transportation,Caleb Johnson,999.499.0765x325,doughertyjeanne@example.org,"Unit 6645 Box 8350
+DPO AA 33513",Jeddah,Qatar,Logistics Partner,C,Net 30,14,4.9,0.852,337,6792630.94,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.505399
+SUP8436,Consulting Services,Aaron Scott,001-864-411-3419,jonathonruiz@example.org,"0519 Jason Alley Apt. 872
+Lake Jonathanland, NV 10651",Riyadh,Kuwait,Service Provider,C,COD,28,3.7,0.914,411,9063987.75,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.506058
+SUP9820,Total,Jamie Haas,001-321-704-2927,ocox@example.com,"7960 Jeffrey Lights Apt. 527
+Jessicamouth, MN 97033",Jeddah,Kuwait,Fuel Supplier,B,Prepaid,30,3.7,0.911,963,6844552.52,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.506649
+SUP3614,Total,Dawn Richardson,001-322-388-3172,lnguyen@example.com,"013 Monica Divide
+Leemouth, WY 31345",Dubai,UAE,Fuel Supplier,C,COD,5,4.1,0.932,921,8264001.25,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.507252
+SUP9888,Safety Equipment,Nancy Garcia,(789)548-4517x33543,hlynch@example.net,"077 Carpenter Views
+South Josephville, PR 71884",Riyadh,Saudi Arabia,Equipment Supplier,B,Prepaid,25,3.6,0.891,265,9764611.69,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.507867
+SUP6931,Logistics Services,Emily Crawford,493.686.5576,ujones@example.com,"USNS Jackson
+FPO AP 55821",Dubai,Kuwait,Service Provider,B+,COD,4,4.6,0.89,462,9448039.39,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.508358
+SUP8922,Maintenance Services,Cynthia Williams,(804)531-5554x066,virginia33@example.org,"26558 Michele Walks
+New Brooke, MS 41908",Kuwait,Saudi Arabia,Service Provider,A+,COD,5,3.5,0.882,846,6914765.25,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.508913
+SUP7272,Technology Equipment,Tiffany Mosley,(926)252-7155,yhernandez@example.org,"49232 Flores Well
+North Kenneth, NV 98310",Dammam,Bahrain,Equipment Supplier,A,Net 30,4,3.6,0.886,424,6437175.81,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.509518
+SUP4680,Technology Equipment,Cameron Harris,(654)716-7594x816,garyrhodes@example.org,"266 Estrada Court
+Brendamouth, VA 99696",Kuwait,UAE,Equipment Supplier,C,Prepaid,23,4.4,0.934,672,1374989.37,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.510195
+SUP7192,Scania Parts,Michael Fischer,(455)287-1015x116,susansolis@example.net,"20607 Tammy Roads
+Lake Jack, DC 32725",Riyadh,UAE,Parts Supplier,A,Net 15,10,4.5,0.935,922,8817604.85,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.510853
+SUP5801,Heavy Equipment,Amanda Owens,001-416-596-8442x8044,kford@example.com,"9903 Lisa Fords
+East Kennethview, FM 35124",Jeddah,Bahrain,Equipment Supplier,A+,COD,2,3.7,0.973,386,6406255.95,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.511432
+SUP6177,Heavy Equipment,Jessica Parker,244-549-2072x94948,aherman@example.net,"9241 Todd Coves
+Seanview, AK 74674",Kuwait,Qatar,Equipment Supplier,C,Prepaid,14,4.1,0.852,76,9187456.3,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.512005
+SUP2119,BP,Jeffery Flynn,001-993-712-8247,brownyolanda@example.net,"35383 Fisher Haven
+Jacobsstad, GU 37774",Jeddah,Bahrain,Fuel Supplier,A+,Net 15,1,3.9,0.949,626,5030006.72,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.512713
+SUP5966,Consulting Services,Donald Brown,304-928-5170,jeffreybradley@example.org,"16681 Cruz Summit
+Chaveztown, GU 04644",Doha,UAE,Service Provider,B+,Prepaid,10,4.2,0.95,480,3089585.91,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.515472
+SUP5780,Maintenance Services,Crystal Moreno,577.850.4379x0217,gbauer@example.com,"24575 Moon Club Suite 369
+South Teresa, NH 25809",Doha,Bahrain,Service Provider,B+,Net 15,26,4.6,0.979,776,7977918.0,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.516271
+SUP6276,Mercedes Parts,Vincent Porter,676.409.9549,williamsalan@example.net,"669 Adams Squares
+Port Lindashire, FM 31889",Dubai,Bahrain,Parts Supplier,A,Net 15,12,4.7,0.974,485,1837446.72,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.516974
+SUP9698,Safety Equipment,Tara Scott,+1-664-681-3065x57935,vmoore@example.net,"498 Cummings Wells Suite 898
+Lake Desireeburgh, NE 22348",Dubai,Kuwait,Equipment Supplier,A+,COD,20,4.7,0.923,818,6173646.4,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.517612
+SUP2952,Warehousing,Ronald Baker,001-897-885-8158x75154,zhart@example.org,"970 Garcia Park
+Port Sandra, FM 91864",Kuwait,Kuwait,Logistics Partner,A+,Prepaid,30,4.2,0.976,880,9165748.35,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.518230
+SUP8827,MAN Parts,Elizabeth Bennett,001-627-819-8210x456,kendra79@example.net,"00343 Thomas Harbor
+Ryanfort, TN 28478",Jeddah,UAE,Parts Supplier,A,Prepaid,7,4.3,0.898,477,484174.61,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.518816
+SUP3771,Mercedes Parts,Jessica Singleton,9465784551,jonathan09@example.org,"5887 Cortez Green
+Lake Pamelaland, OR 81091",Doha,UAE,Parts Supplier,A,Net 15,4,4.4,0.929,949,5720153.59,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.519403
+SUP4807,Scania Parts,Jason Clark,501.963.8399x63639,oweber@example.org,"9534 Pearson Union Suite 548
+South Elizabethburgh, WY 85116",Kuwait,Qatar,Parts Supplier,B,Prepaid,19,4.7,0.874,738,1834597.65,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.520032
+SUP9832,Logistics Services,Timothy Kelly,272.218.5384x877,gonzalezkatrina@example.net,"52255 Tanner Fork
+Riversborough, TN 87979",Dubai,Saudi Arabia,Service Provider,B,Prepaid,6,4.9,0.895,549,8126722.52,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.520709
+SUP7063,Distribution,Jonathan Bautista,319.964.0632x49197,victoriaanderson@example.net,"PSC 7653, Box 1270
+APO AP 86336",Riyadh,Bahrain,Logistics Partner,B,Net 15,8,3.6,0.957,576,5345615.89,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.521189
+SUP5577,Logistics Services,Barry Shepherd,(405)508-5685x5765,katherine92@example.org,"95900 Harrell Street Apt. 841
+New Anthonychester, RI 43740",Doha,UAE,Service Provider,B+,Net 30,12,4.0,0.929,971,6200106.12,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.521935
+SUP9497,Scania Parts,Anthony Ruiz,705-991-0523,econner@example.org,"Unit 3266 Box 3815
+DPO AE 03075",Dubai,Bahrain,Parts Supplier,A,COD,11,3.9,0.889,93,5937799.31,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.522336
+SUP6798,Warehousing,James Watkins Jr.,742-563-7872,daisychavez@example.org,"54373 Matthew Crescent
+Holmesberg, TX 21687",Kuwait,Qatar,Logistics Partner,C,Net 15,13,3.9,0.86,845,1866666.51,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.523021
+SUP3252,Technology Equipment,Vincent Hill,831.485.9927,qblackwell@example.org,"794 Doyle Centers
+New Benjamin, CO 15186",Doha,Kuwait,Equipment Supplier,A+,Net 30,9,3.7,0.927,476,5848544.23,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.523625
+SUP7261,Scania Parts,Keith Frazier,6478580654,oyoung@example.net,"Unit 2014 Box 3452
+DPO AA 36997",Jeddah,Bahrain,Parts Supplier,C,COD,16,4.1,0.925,138,9998753.19,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.524014
+SUP3581,Warehousing,Kevin Morgan,(226)968-6841x278,rodgerstimothy@example.org,"PSC 6919, Box 8855
+APO AE 82524",Dubai,Saudi Arabia,Logistics Partner,B,Prepaid,24,4.4,0.871,929,5659204.58,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.524481
+SUP2015,Heavy Equipment,Andrew Jensen,+1-257-462-4311x9517,whitneychristina@example.net,"Unit 4167 Box 7784
+DPO AE 86293",Kuwait,Kuwait,Equipment Supplier,B,Net 15,26,4.9,0.89,900,390083.02,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.524955
+SUP9469,BP,Brandy Dennis,(824)749-6541x9494,rhonda06@example.com,"370 Melinda Plain
+Austinport, NH 59344",Doha,UAE,Fuel Supplier,B,Net 15,26,4.3,0.931,858,5582803.08,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.525504
+SUP9548,Warehousing,Mark Williams,+1-311-758-9630,jeremyromero@example.org,"51130 Carter Street
+Lake Kristen, MN 18470",Doha,Kuwait,Logistics Partner,B+,Net 15,19,3.7,0.87,820,6646160.23,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.526174
+SUP4332,Warehousing,John Conley,216-327-9200x2475,barnettgabriel@example.org,"895 Chris Turnpike
+Cassandrastad, MH 04805",Doha,Kuwait,Logistics Partner,A,Prepaid,13,3.6,0.884,233,5105798.4,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.526816
+SUP6075,Logistics Services,Brian Charles,001-516-347-0887x3711,krystaljohnson@example.net,"888 Cohen Club Suite 403
+Port Chelsea, FM 78823",Dammam,Saudi Arabia,Service Provider,C,Net 15,20,4.0,0.974,536,2516327.49,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.527515
+SUP9800,Consulting Services,Alex Le,8885764827,rorozco@example.com,"428 Marcus Estates
+Burtonland, MN 31016",Jeddah,Qatar,Service Provider,B+,Net 15,28,4.8,0.859,23,4548278.07,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.528113
+SUP8756,Transportation,James Jones,(752)792-7050x381,dsanchez@example.net,"01551 Paul Loop Apt. 371
+Kristenville, NJ 52284",Kuwait,Saudi Arabia,Logistics Partner,B,Net 15,17,4.7,0.871,693,5920614.44,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.528697
+SUP6519,Aramco,Gary Dunlap,(689)706-0374x70237,johncoleman@example.net,"Unit 7475 Box 1498
+DPO AA 15272",Dubai,Qatar,Fuel Supplier,B+,Net 30,22,4.8,0.898,515,1203263.34,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.529165
+SUP8400,Warehousing,Mrs. Deborah Castillo,686.709.0909x4332,mark65@example.com,"3147 Ford Radial Apt. 230
+Ericchester, MS 48016",Dammam,UAE,Logistics Partner,A,Prepaid,18,4.4,0.873,844,3272015.37,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.529869
+SUP1741,Safety Equipment,Ronald Ramos,001-406-775-3229,briangriffith@example.net,"3498 James Ports
+Matthewland, NJ 62962",Kuwait,UAE,Equipment Supplier,C,Net 15,22,3.6,0.923,249,7871257.6,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.532359
+SUP1657,Safety Equipment,Nicholas Jackson,001-826-963-2335x596,lyork@example.net,"732 Berg Turnpike
+North Danielfurt, AS 66179",Kuwait,Saudi Arabia,Equipment Supplier,C,Net 15,24,3.9,0.869,421,6306081.75,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.533115
+SUP3164,Safety Equipment,Martha Smith,+1-604-716-6740x21300,websterdavid@example.org,"92144 Willis Street
+Port Michael, AR 62918",Kuwait,UAE,Equipment Supplier,A+,COD,20,4.1,0.882,18,6973128.99,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.533859
+SUP4741,Aramco,Donna Solomon,245-317-1517,timothyrobinson@example.com,"490 Bell Forks Apt. 373
+West Rebeccaton, FL 28561",Kuwait,Bahrain,Fuel Supplier,B,Prepaid,7,3.7,0.918,736,9102303.76,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.534593
+SUP6026,Mercedes Parts,Robert Kelly,(945)924-8088x43094,crystal81@example.net,"910 Braun Islands Apt. 078
+Robertburgh, NC 94535",Riyadh,UAE,Parts Supplier,C,Net 15,12,3.6,0.918,826,2084245.0,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.535228
+SUP4357,Maintenance Services,Caitlin Zimmerman,+1-346-201-4602x3934,cindyshaw@example.com,"USNS Sexton
+FPO AA 06345",Dubai,Saudi Arabia,Service Provider,B,Prepaid,5,4.1,0.91,150,3227652.82,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.535909
+SUP4055,Iveco Parts,Jeremy Hall,732.866.5496,angela73@example.org,"Unit 2390 Box 3806
+DPO AA 55178",Doha,Qatar,Parts Supplier,C,Net 30,6,4.6,0.904,61,6588764.82,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.536437
+SUP2131,Heavy Equipment,Richard Harris,001-603-448-4022x29517,bennettmarissa@example.net,"6653 Tracy Common Suite 751
+Bakerbury, RI 82117",Doha,Bahrain,Equipment Supplier,B,Net 30,12,4.3,0.929,908,6959876.77,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.537310
+SUP4533,Mercedes Parts,Douglas Mitchell,+1-438-974-4891x672,heather77@example.net,"909 Susan Pass
+West Christopherfurt, OR 61991",Jeddah,Bahrain,Parts Supplier,B+,COD,27,4.3,0.973,249,8932992.4,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.539167
+SUP6151,Warehousing,Natalie Mays,545.608.7803x729,gholloway@example.com,"149 Megan Point Apt. 775
+North Kimberly, AK 32957",Kuwait,Qatar,Logistics Partner,B+,Net 30,13,3.6,0.96,810,6334022.38,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.540626
+SUP6809,Transportation,Jonathon Barton,+1-342-316-8115,elizabethduran@example.net,"29137 Daryl Forges Apt. 571
+Christineborough, MT 69810",Kuwait,Saudi Arabia,Logistics Partner,B,COD,29,4.5,0.942,543,5575631.04,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.541374
+SUP3975,Total,Kimberly Anderson,(719)405-0571x47263,griffithjill@example.com,"2842 Cain Rest
+Lake Cynthiaside, NY 98546",Riyadh,Saudi Arabia,Fuel Supplier,C,Prepaid,6,4.1,0.859,62,2454291.46,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.542082
+SUP1749,Maintenance Services,Theresa Moran,(568)979-1454,michelesanchez@example.com,"85415 Shawn Viaduct Suite 716
+East Alexismouth, VI 63684",Jeddah,Qatar,Service Provider,A,Net 15,23,4.7,0.946,650,1452352.06,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.542759
+SUP1176,Logistics Services,Aaron Thompson,001-585-569-1858x002,jennifer02@example.net,"549 Paul Plains
+Josephmouth, MI 15072",Doha,Bahrain,Service Provider,A,Prepaid,12,4.6,0.927,348,6089019.46,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.543301
+SUP1038,Consulting Services,Charles Carter,839-892-1880x5109,maryanderson@example.org,"954 Taylor Plains
+South Patricia, VA 14535",Riyadh,Saudi Arabia,Service Provider,A,Net 30,27,4.0,0.932,986,4311063.32,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.543985
+SUP6909,Heavy Equipment,Megan Proctor,660.961.4245x384,david95@example.net,"4669 Morgan Glen
+Medinaport, DC 24705",Dammam,Saudi Arabia,Equipment Supplier,B,Net 15,21,4.2,0.881,183,9807933.83,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.544606
+SUP7490,Aramco,Michelle Hines,+1-643-387-2303,dsalinas@example.com,"89181 Mackenzie Inlet
+South Tommytown, WI 38106",Doha,Saudi Arabia,Fuel Supplier,A,Net 30,14,3.8,0.928,186,2876491.94,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.545183
+SUP6725,Shell,Steven Nelson,+1-425-651-8522x5109,cjohnson@example.com,"0971 Haley Hills
+East Jeremyhaven, FL 79887",Dammam,Kuwait,Fuel Supplier,A+,Net 30,30,4.0,0.881,100,1697584.25,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.545761
+SUP5305,Aramco,Sonia Hodges,776.911.1790x171,brian66@example.org,"03023 Hoffman Path Suite 319
+Williamberg, NE 50395",Dammam,Qatar,Fuel Supplier,C,COD,5,3.6,0.94,508,1075779.24,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.546357
+SUP7269,Aramco,Alexander Delacruz,915-947-6077x187,bentonkimberly@example.com,"315 Taylor Mews Suite 415
+Monicafurt, KS 70501",Dubai,Kuwait,Fuel Supplier,A,Net 30,27,3.6,0.875,83,329989.51,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.548789
+SUP6784,Mercedes Parts,Nicholas Wright,471-606-1515,schroedertoni@example.org,"3766 Melissa Dam Apt. 287
+Andersonburgh, MP 19764",Jeddah,Bahrain,Parts Supplier,B,Net 30,6,3.8,0.898,651,9696535.66,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.549584
+SUP4093,Transportation,Elaine Johnson,+1-243-496-1725x775,larry48@example.org,"76018 Matthew Highway
+Port Chelsea, CT 07067",Doha,Kuwait,Logistics Partner,A+,Net 15,4,4.5,0.907,210,837660.88,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.550155
+SUP1968,Safety Equipment,Lisa Young,(792)390-5949,matthewbecker@example.com,"9195 Michael Mission
+Danielton, MN 76844",Doha,Qatar,Equipment Supplier,B+,Net 15,13,4.8,0.871,832,9609588.56,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.550804
+SUP2241,Heavy Equipment,Monique Jackson,567.233.3575x02347,kcunningham@example.net,"90459 Ryan Knolls Apt. 253
+East Sherry, PR 09695",Dubai,Saudi Arabia,Equipment Supplier,A+,COD,13,3.7,0.933,76,5796697.82,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.551409
+SUP4000,Distribution,Krista Hernandez,+1-505-922-5227,jenkinselizabeth@example.org,"850 Armstrong Harbors Suite 602
+Osbornville, OR 93950",Kuwait,Kuwait,Logistics Partner,C,Net 30,28,4.0,0.884,344,7522620.99,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.552134
+SUP4650,Mercedes Parts,Zachary Jones,880.265.4046,mannalexandra@example.com,"8231 Michael Plaza Apt. 111
+Curtisfurt, HI 66497",Riyadh,UAE,Parts Supplier,B,Net 30,16,4.9,0.915,889,5859996.97,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.552817
+SUP7662,Shell,Roy Cook,+1-593-599-4285x5337,zherring@example.com,"9000 Gomez Court Apt. 666
+West Joanna, FL 41004",Jeddah,Kuwait,Fuel Supplier,A,COD,3,4.9,0.873,38,9390691.5,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.553568
+SUP9754,Technology Equipment,Fernando Thomas,983.800.0513,gallowayamy@example.com,"5694 Torres Overpass
+North Yvonne, MD 99211",Jeddah,UAE,Equipment Supplier,B+,Net 15,20,4.1,0.952,190,8164335.07,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.554277
+SUP7789,Mercedes Parts,Casey Soto,446-595-8904x9467,lbird@example.com,"59408 Martin Heights Suite 212
+Port Danachester, DE 91575",Dubai,UAE,Parts Supplier,B,Prepaid,20,4.8,0.971,602,4164583.81,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.554934
+SUP8839,Technology Equipment,Mario Peters,+1-714-692-0039x2652,masonjoshua@example.com,"48478 Leslie Terrace
+West Joseton, OH 43055",Dubai,Bahrain,Equipment Supplier,B,Prepaid,27,4.4,0.945,527,402407.06,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.555598
+SUP1412,Maintenance Services,Philip Clarke,265.280.8642x11245,simmonstravis@example.com,"78004 Ortiz Center Suite 592
+New Breanna, CO 81675",Dammam,Saudi Arabia,Service Provider,A+,Net 30,23,3.6,0.959,622,1956259.37,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.556291
+SUP2281,Scania Parts,Denise Stone,848-402-6174x063,hallkent@example.com,"1351 Clark Terrace Apt. 142
+West Kendra, NV 26225",Riyadh,Kuwait,Parts Supplier,A+,Net 30,20,3.9,0.948,280,868362.61,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.556991
+SUP4974,Heavy Equipment,Martha Johnson,(923)782-6473x2852,steventrujillo@example.com,"USNV Henderson
+FPO AE 63968",Riyadh,Qatar,Equipment Supplier,A+,COD,21,4.0,0.893,179,3764574.57,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.557562
+SUP6077,Iveco Parts,Shelley Nelson,+1-832-464-2952x85854,melissa29@example.org,"45760 Stephanie Plaza Apt. 451
+Millermouth, CO 13855",Kuwait,UAE,Parts Supplier,B+,Prepaid,24,4.6,0.911,257,8109817.07,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.558161
+SUP1937,Heavy Equipment,Jeffrey Livingston,732.705.4315x68206,ashleybrown@example.org,"0067 White Views
+South Donnaville, WA 05637",Doha,Saudi Arabia,Equipment Supplier,C,Prepaid,11,4.0,0.962,948,4926668.56,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.558845
+SUP1661,Transportation,Timothy Taylor,777-272-1183x42944,nwalker@example.com,"87231 Wright Mountain Apt. 053
+Port Eric, CT 58112",Riyadh,Bahrain,Logistics Partner,A+,COD,25,3.9,0.91,86,2970368.68,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.559532
+SUP8525,Technology Equipment,Timothy Ray,+1-774-920-8525x444,tmoore@example.net,"24544 Richards Oval
+New Erica, MT 04704",Doha,UAE,Equipment Supplier,B,Prepaid,19,3.5,0.867,776,3571409.49,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.560150
+SUP4164,Maintenance Services,Nicholas Sparks,950-248-5068,fergusonhannah@example.com,"USNS Hughes
+FPO AE 90273",Dammam,Saudi Arabia,Service Provider,A,COD,3,4.4,0.859,732,9940940.16,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.560707
+SUP1694,Logistics Services,Raymond Wall,001-205-502-4303x95903,bakerjacqueline@example.com,"456 Williams Oval
+Port Tina, DE 53256",Kuwait,Qatar,Service Provider,B+,Net 30,1,4.8,0.971,425,6631718.44,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.561400
+SUP3187,Total,Hannah Morse,646-669-1395,april82@example.org,"47027 Kayla Crossroad
+South Christinafurt, VT 60824",Jeddah,Qatar,Fuel Supplier,C,COD,30,3.7,0.955,186,8466682.38,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.561948
+SUP4856,Chevron,Sharon Stewart,556.542.8681x846,vrussell@example.net,"424 Tony Burg
+West David, NC 74163",Jeddah,Kuwait,Fuel Supplier,A+,Net 30,16,4.7,0.965,417,9184483.09,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.562521
+SUP3719,MAN Parts,Joshua Ritter,+1-274-764-6200x79337,gutierrezryan@example.net,"4934 Sue Isle
+Claudiaton, AL 82796",Jeddah,Qatar,Parts Supplier,A,Net 30,27,4.3,0.909,644,5702769.81,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.563176
+SUP8296,BP,Hailey Martin,(996)898-4447x7146,danielsdanielle@example.org,"343 Kevin Forges
+North James, MD 19109",Jeddah,Saudi Arabia,Fuel Supplier,B+,Prepaid,22,4.6,0.851,395,1181411.02,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.565446
+SUP2489,Chevron,Adam Howell,(951)954-3461,cobbshawn@example.org,"PSC 5028, Box 7836
+APO AA 38697",Dubai,Qatar,Fuel Supplier,A,Net 15,13,4.9,0.954,788,2360996.11,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.566004
+SUP6450,BP,Robert Webb,716-384-9467x8401,judith69@example.com,"6788 Bridges Ramp Apt. 211
+Michaelchester, WI 03937",Kuwait,Saudi Arabia,Fuel Supplier,A+,Net 30,14,4.3,0.866,33,3952717.57,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.566645
+SUP3768,Warehousing,Dakota May,(422)685-5545,jyork@example.com,"4857 Howard Expressway Suite 467
+Edwardsfurt, RI 71227",Riyadh,Bahrain,Logistics Partner,A,COD,30,3.6,0.864,143,9747807.3,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.567307
+SUP2299,Heavy Equipment,Mr. Robert Lowe,+1-319-222-2289x35975,gmiller@example.com,"925 James Locks
+North Carrieborough, TN 99278",Dammam,UAE,Equipment Supplier,C,Prepaid,27,3.7,0.975,784,1591562.66,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.567902
+SUP4685,Iveco Parts,Bryan Eaton,001-298-685-5985x8665,davidhicks@example.org,"007 Heidi Mountains Suite 740
+Amandaburgh, IL 41056",Dubai,Qatar,Parts Supplier,B,COD,10,4.8,0.903,65,2167015.57,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.568559
+SUP1627,Transportation,Tommy Howell,(878)539-5134,louis65@example.net,"38861 Palmer Run Apt. 594
+New Christie, IN 31407",Doha,UAE,Logistics Partner,B+,COD,18,3.8,0.923,35,6715160.92,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.569148
+SUP4291,Consulting Services,Mitchell Hensley,(520)368-7853x899,gstewart@example.net,"1555 Rachael Tunnel
+Port Duane, DE 74799",Dubai,Kuwait,Service Provider,A+,Net 30,20,4.7,0.895,451,1352106.86,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.569727
+SUP3599,MAN Parts,Steven Martin,734-720-3398,rachel52@example.com,"88727 Heather Isle Suite 112
+West Allison, CT 05045",Jeddah,Kuwait,Parts Supplier,C,Prepaid,7,3.6,0.977,748,3261372.91,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.570278
+SUP7235,Heavy Equipment,Kimberly Hendrix,(287)646-7614,norrisrobert@example.net,"242 Simmons Station Apt. 275
+Johnberg, NJ 97125",Dubai,Qatar,Equipment Supplier,B+,Prepaid,17,3.8,0.949,763,8881721.43,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.570976
+SUP7351,Transportation,Catherine Walker,(292)561-8691x852,jallen@example.com,"808 Wade Burg
+Lake Gordon, IL 66997",Riyadh,Saudi Arabia,Logistics Partner,A,COD,18,3.5,0.978,881,3558160.78,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.571627
+SUP3687,Aramco,Johnny James,(367)959-3755,blevinsjustin@example.org,"15287 John Club Apt. 332
+Jessicamouth, NJ 94312",Riyadh,Qatar,Fuel Supplier,B,Prepaid,3,4.2,0.916,590,2462338.63,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.572286
+SUP1354,Distribution,Wesley Mcdonald,873.885.8390,jmunoz@example.org,"73153 Pope Forge Suite 950
+Kaylaburgh, ME 34761",Dammam,Saudi Arabia,Logistics Partner,A,Net 15,26,4.2,0.898,876,2987212.44,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.572899
+SUP1878,Chevron,Jonathan Miles,960-875-9481x17915,ljohnson@example.com,"22640 Adams Estate
+Strongport, GA 21353",Jeddah,Bahrain,Fuel Supplier,A,Prepaid,30,4.2,0.947,275,7008441.41,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.573546
+SUP3288,Chevron,Dana Hardy,5274220589,robert86@example.com,"829 Heidi Route
+Rileymouth, DE 13546",Dubai,Kuwait,Fuel Supplier,B,Net 15,7,3.5,0.875,109,6621995.99,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.574116
+SUP1830,Chevron,Samuel Salazar,+1-809-712-5966x02600,jamesjones@example.org,"41832 Maria Route
+Wolfeberg, GA 17479",Jeddah,Saudi Arabia,Fuel Supplier,C,Prepaid,22,4.2,0.927,331,3840356.3,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.574791
+SUP9807,BP,Megan Murillo,(507)502-0413,daniel17@example.com,"56616 Edwards Coves Suite 890
+Vasquezchester, NC 22081",Doha,Saudi Arabia,Fuel Supplier,B,Net 15,22,3.5,0.88,17,4571273.41,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.575414
+SUP2966,Safety Equipment,Danielle Cooper,(706)427-9346,holtbrooke@example.com,"7506 Taylor Ford
+New Josephville, HI 53793",Kuwait,Kuwait,Equipment Supplier,A,Net 30,26,4.4,0.889,56,1394219.57,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.576090
+SUP2801,Transportation,Robert Weber,(876)651-4226,elliottlarry@example.net,"65609 Alvin Spring Apt. 783
+Mooreton, IA 20401",Dubai,Saudi Arabia,Logistics Partner,B+,Prepaid,14,3.6,0.951,539,3269306.16,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.576896
+SUP7352,Volvo Parts,Heather Nunez,891.471.0818x444,tperry@example.net,"62652 Allen Loop
+West Sandramouth, DC 70746",Doha,Bahrain,Parts Supplier,B,Prepaid,13,3.8,0.867,410,3990765.45,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.577910
+SUP4089,Distribution,Sarah Murphy,001-641-904-3997x4701,rowlandkristin@example.com,"0698 Fields Locks Suite 956
+Marquezview, ME 32977",Riyadh,Kuwait,Logistics Partner,C,Prepaid,24,4.3,0.885,865,8206864.21,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.578713
+SUP8416,Safety Equipment,Raven Cuevas,+1-512-685-3411x2479,katie43@example.org,"Unit 0631 Box 9213
+DPO AA 30058",Doha,UAE,Equipment Supplier,A+,COD,18,4.0,0.888,154,1832748.53,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.579107
+SUP6000,Shell,Gregory Brown,316-700-1801,kyledavis@example.com,"32947 Cunningham Ridges Suite 015
+West Markfurt, WI 91936",Dubai,Kuwait,Fuel Supplier,C,Net 30,12,3.6,0.878,460,1336866.87,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.579838
+SUP3727,Mercedes Parts,Brian Obrien,001-468-499-5288x35013,zking@example.org,"272 Christopher Wells
+Kellyville, AR 53232",Dammam,Saudi Arabia,Parts Supplier,A+,COD,29,3.8,0.939,497,2528871.64,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.582814
+SUP8559,Safety Equipment,David Humphrey,7825861214,timothyhernandez@example.org,"158 Johnson Fords
+North Donaldfort, WI 41146",Dammam,Saudi Arabia,Equipment Supplier,A,Net 30,11,3.5,0.89,485,6839037.13,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.583735
+SUP4965,Safety Equipment,Dr. Crystal Hill,(759)938-9785,lisa75@example.net,"1027 Rice Pike Apt. 372
+Port Patricia, MI 98259",Jeddah,Qatar,Equipment Supplier,B+,Prepaid,14,3.9,0.946,495,9666171.42,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.584568
+SUP1739,MAN Parts,Abigail Long MD,+1-840-663-6443x3994,kayleejohnson@example.com,"6543 Caldwell Shore Apt. 185
+Courtneyport, CT 50501",Dammam,Kuwait,Parts Supplier,B+,COD,20,4.9,0.894,827,7778877.07,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.585430
+SUP7914,BP,Sarah Collins,+1-861-298-4066x3577,juan15@example.com,"73463 Teresa Extensions Apt. 156
+Port Victorberg, IA 02208",Riyadh,Kuwait,Fuel Supplier,B,Prepaid,24,4.8,0.967,253,1427824.76,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.586113
+SUP5494,Heavy Equipment,Kelly Jones,(231)317-1718,nancyhanson@example.org,"5423 Skinner Mall
+Port Victoriaberg, WV 49902",Riyadh,UAE,Equipment Supplier,C,Net 15,25,5.0,0.932,837,1530057.2,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.586902
+SUP9813,Transportation,Charles Cruz,5376439015,larrynewton@example.org,"8121 Michael Turnpike Suite 304
+North Justinfort, HI 82216",Doha,Kuwait,Logistics Partner,A,COD,15,4.1,0.958,287,1672606.89,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.587815
+SUP2355,Warehousing,Ryan Hinton,(411)907-0573x4058,jamie52@example.net,"1778 Velez Brooks
+Knoxfort, SD 07393",Riyadh,Bahrain,Logistics Partner,B+,Prepaid,17,4.2,0.926,566,2752837.98,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.588469
+SUP8468,Iveco Parts,Taylor Gibson,982.361.6387,anna10@example.net,"100 Morris Ford
+West Davidmouth, ND 04699",Riyadh,Qatar,Parts Supplier,C,Net 30,21,4.3,0.853,991,2055752.67,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.589062
+SUP7076,Transportation,Marie Ortega,+1-287-552-5487x315,littledebra@example.org,"8286 Gonzalez Island
+Jacobfort, ME 90223",Kuwait,UAE,Logistics Partner,C,Net 30,1,3.9,0.902,622,6576682.49,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.589748
+SUP5560,Distribution,Jorge Baldwin,+1-695-624-5346x53163,brownmelissa@example.org,"692 Daniel Prairie
+East Kenneth, MN 08708",Kuwait,Kuwait,Logistics Partner,B+,Net 30,7,3.8,0.87,378,9756426.38,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.590406
+SUP4988,Safety Equipment,Keith Hurley,001-382-978-8787,stephen63@example.org,"5672 James Knoll
+Walshmouth, AR 51015",Jeddah,Saudi Arabia,Equipment Supplier,B+,Net 30,2,4.6,0.943,412,1394355.18,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.590977
+SUP4680,Heavy Equipment,Thomas Dunn,+1-937-963-9247x838,mariacole@example.com,"4924 Howard Track
+Montgomeryland, KY 84723",Riyadh,Qatar,Equipment Supplier,C,Net 15,20,4.1,0.865,610,2361144.6,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.591686
+SUP1348,Heavy Equipment,Helen Gibson,(766)442-2096x9278,carloshuang@example.org,"4848 Shannon Terrace Suite 499
+Nataliefurt, TX 55596",Dammam,Kuwait,Equipment Supplier,A,COD,15,4.4,0.882,96,5402282.23,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.592358
+SUP5390,Aramco,Kristopher Clark,+1-203-405-6716x7462,reyeseric@example.net,"8569 Mendoza Cove Suite 475
+New Kelly, WV 30155",Dammam,Saudi Arabia,Fuel Supplier,A,Net 30,13,4.2,0.857,717,7496945.0,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.593061
+SUP1614,Heavy Equipment,Tammy Cobb,+1-776-400-7904x338,bcain@example.org,"78589 Sheppard Club Apt. 596
+West Teresaland, MT 38462",Kuwait,Bahrain,Equipment Supplier,B,Prepaid,25,3.6,0.928,634,660736.65,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.593694
+SUP8665,Shell,Traci Kim,420.872.2948x39247,pmolina@example.org,"6410 Guzman Squares Apt. 100
+Lake Susanville, ME 86983",Kuwait,UAE,Fuel Supplier,A,Net 30,25,3.7,0.973,394,7994755.02,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.594334
+SUP5420,Shell,John Jackson,001-240-924-2359x1272,xbaldwin@example.net,"740 Webster Haven
+Port Mariaview, FL 55221",Doha,Kuwait,Fuel Supplier,C,Prepaid,30,4.9,0.955,203,938353.86,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.594954
+SUP2210,Total,Jessica Knight,(822)504-3370x7850,coxmichael@example.net,"1926 Joshua Rapids
+Clarkland, MI 48164",Jeddah,Kuwait,Fuel Supplier,B+,Net 30,18,3.6,0.969,322,4232997.02,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.595643
+SUP5235,Volvo Parts,John Erickson,(582)745-8808,cindygomez@example.net,"277 Andrew Mission Suite 311
+Huberfort, AL 12762",Dammam,Bahrain,Parts Supplier,B+,Net 30,6,3.9,0.913,598,1359542.59,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.596617
+SUP7845,Maintenance Services,Daniel Hoffman,(534)292-4435x718,elizabethhicks@example.com,"677 Patrick Rest
+Natalieside, LA 02765",Dammam,Kuwait,Service Provider,B+,Net 15,22,4.9,0.958,114,1304114.55,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.599268
+SUP5342,Total,Tina Brooks,223.479.7168x923,gabrielleharris@example.org,"548 Wiley Station Apt. 174
+West Brian, MP 90272",Riyadh,Qatar,Fuel Supplier,B,COD,2,3.6,0.855,73,9808367.83,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.600289
+SUP3912,Chevron,Edward Bass,850-915-1765x9044,jasonjohnson@example.org,"7002 Carter Park
+Valenzuelabury, OR 35426",Dammam,Qatar,Fuel Supplier,A+,COD,16,3.6,0.902,704,5873147.02,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.601151
+SUP1291,Heavy Equipment,Hannah Lynch,416-835-6489x14053,lowealexandra@example.net,"93397 Douglas Summit
+Lewisshire, NY 70281",Dammam,Kuwait,Equipment Supplier,A+,Net 30,5,4.0,0.962,109,2114680.8,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.601893
+SUP5811,Scania Parts,Elizabeth Walker,322-834-8156,xadkins@example.org,"485 Shirley Track
+New Pennymouth, CO 35835",Riyadh,Saudi Arabia,Parts Supplier,C,Prepaid,8,4.3,0.889,657,7562859.57,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.602484
+SUP3715,MAN Parts,Mr. Eric Chung DDS,(317)298-4113,oroth@example.net,"33218 Chad Viaduct
+Port Adamstad, MD 36159",Kuwait,UAE,Parts Supplier,A,Net 30,6,4.8,0.9,128,2875707.48,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.603089
+SUP8323,Consulting Services,Eric Garza,287.784.3090,zmolina@example.net,"789 Jacqueline Mission
+Port Timothy, OR 48948",Riyadh,Kuwait,Service Provider,A,Net 15,23,4.6,0.955,486,6309497.32,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.603670
+SUP4549,Consulting Services,Brittany Zamora,+1-381-467-0996x9564,nicholasmoreno@example.net,"160 Tamara Locks
+West Michaelfurt, OH 53951",Dubai,Bahrain,Service Provider,A+,Prepaid,1,4.5,0.902,447,4292293.25,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.604329
+SUP5871,Warehousing,Paige Wheeler,+1-892-718-5941x309,ynorman@example.org,"294 Rodriguez Forks
+Monroehaven, PW 58816",Dubai,Qatar,Logistics Partner,B,Net 30,7,4.3,0.857,737,1935526.62,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.604967
+SUP1889,Iveco Parts,Samuel Waters,+1-494-946-4772x37076,rojasbrian@example.com,"219 Maria Walks Suite 971
+New Christopherburgh, KS 72070",Doha,Saudi Arabia,Parts Supplier,A,Prepaid,15,4.4,0.978,974,7103256.1,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.605632
+SUP6975,BP,Ricardo Wright,384.225.5638,robertclark@example.com,"537 James Trail Suite 967
+Douglasbury, OK 52868",Kuwait,Kuwait,Fuel Supplier,C,Net 15,8,4.1,0.866,515,7447745.96,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.606289
+SUP9527,Safety Equipment,Shelly Dean,406.372.2925,keithkim@example.com,"090 Catherine Extension Suite 270
+Russellhaven, TN 78771",Jeddah,Bahrain,Equipment Supplier,C,Net 30,23,4.0,0.901,818,3831323.48,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.606945
+SUP8442,Logistics Services,Michael Ross,3183572164,cheryl12@example.com,"211 Bolton Haven Suite 847
+Samanthafurt, PA 44287",Jeddah,Kuwait,Service Provider,B+,Net 30,20,4.8,0.879,945,9096051.33,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.607541
+SUP3703,MAN Parts,Jenna Rogers,001-318-770-4673x5764,burnskelsey@example.org,"92736 Torres Orchard Suite 068
+Colemanshire, TX 49821",Kuwait,Qatar,Parts Supplier,B+,Prepaid,10,4.0,0.865,683,1844887.89,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.608280
+SUP5577,Scania Parts,Anthony Robertson,231.637.7585x80774,julia46@example.com,"501 Joseph Junctions Apt. 599
+East Juliehaven, PA 78140",Dubai,Saudi Arabia,Parts Supplier,B+,Net 15,27,4.6,0.856,989,517242.34,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.608842
+SUP7565,Logistics Services,Anthony Kent,001-388-494-4510x706,qoneal@example.org,"759 Carson Motorway
+Kylefort, HI 64270",Kuwait,Kuwait,Service Provider,B+,Net 30,13,4.0,0.938,70,7530144.81,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.609446
+SUP6203,Maintenance Services,Elizabeth Terry,399.747.3788,shellyjohnson@example.com,"88787 Paul Gateway Apt. 164
+Rebeccachester, NC 62293",Riyadh,Qatar,Service Provider,C,COD,13,4.6,0.866,791,1257152.58,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.610120
+SUP9986,Volvo Parts,Brittney Melendez,(888)249-5414x9561,nicholas58@example.com,"02833 Wilson Track Suite 599
+Louisbury, LA 15652",Kuwait,Bahrain,Parts Supplier,B+,COD,3,4.2,0.887,691,2373645.0,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.610716
+SUP5161,Distribution,Richard Hudson,619-239-2884,myerssteven@example.net,"23821 Laura Prairie Suite 719
+North Joann, PA 85915",Kuwait,Qatar,Logistics Partner,A,Net 15,9,4.6,0.855,421,4498123.42,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.611368
+SUP6651,Distribution,James Lowe,528.586.1936x8991,mbrown@example.com,"7460 Michael Bridge
+Garybury, MT 47209",Dubai,UAE,Logistics Partner,A+,Net 30,30,4.6,0.854,496,2733007.73,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.611940
+SUP8457,Heavy Equipment,Kelsey Craig,2279731391,greed@example.com,"04026 Potter Motorway
+Lake Clintonbury, MA 33818",Riyadh,UAE,Equipment Supplier,A,Net 15,22,3.7,0.937,406,4605890.43,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.612554
+SUP2065,Aramco,Ronald Owens,+1-347-288-6135x7209,williamsjasmine@example.org,"1607 Garcia Village Suite 024
+Robertborough, MO 04551",Dammam,Bahrain,Fuel Supplier,B,Net 30,29,3.7,0.923,812,3167334.33,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.613259
+SUP2963,Aramco,Anna Becker,622-683-5155,littleshawna@example.com,"USS Rodriguez
+FPO AE 81335",Dammam,UAE,Fuel Supplier,B+,COD,12,3.9,0.88,994,2596771.24,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.614747
+SUP6948,Logistics Services,Susan Shepherd,+1-319-873-3152x2468,karaturner@example.org,"92867 Victor Wells Suite 483
+New Lindsey, TX 39829",Jeddah,Kuwait,Service Provider,A,Net 15,19,4.3,0.853,746,107512.34,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.616437
+SUP1979,Safety Equipment,Jodi Kennedy,001-687-662-4856x1007,charlesharris@example.net,"929 Howe Coves
+Changland, MS 52168",Kuwait,Kuwait,Equipment Supplier,B,Prepaid,27,4.3,0.957,728,1729013.59,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.617208
+SUP2791,MAN Parts,Christian Jackson,494-525-8801x1065,codyyoung@example.org,"558 Joshua Springs
+East Heather, SD 38544",Riyadh,Bahrain,Parts Supplier,B+,Net 15,8,3.8,0.907,221,9094240.63,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.617863
+SUP2429,Safety Equipment,Gary Abbott,250-267-2315x725,natalie92@example.com,"58272 Anna Prairie
+Wileyview, KY 39864",Jeddah,UAE,Equipment Supplier,C,Net 30,4,4.6,0.865,16,7514255.24,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.618452
+SUP6426,MAN Parts,Nancy Brown,+1-803-400-4357x6772,staffordjack@example.net,"1748 Sandra Villages
+Lake Timothy, RI 26561",Kuwait,Kuwait,Parts Supplier,B,COD,30,4.5,0.93,34,6937449.51,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.619104
+SUP9954,Iveco Parts,Stephanie Stephens,568.703.6393,ramoseric@example.net,"319 Shawn Cape
+West Evan, PR 11569",Kuwait,UAE,Parts Supplier,A+,COD,25,3.7,0.951,802,333943.56,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.619752
+SUP8749,Maintenance Services,Joy Wang,937.830.6142x60430,ideleon@example.org,"Unit 4994 Box 0052
+DPO AA 89382",Kuwait,Qatar,Service Provider,A,Net 15,25,3.7,0.857,323,2733321.91,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.620164
+SUP8487,Scania Parts,Jessica Novak,001-351-265-0249,aayers@example.com,"93918 Cox Meadow
+Wheelerfurt, MI 64769",Jeddah,UAE,Parts Supplier,B+,Prepaid,3,3.8,0.927,241,7927141.14,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.620804
+SUP3787,Transportation,Sandra Pierce,(660)246-4970,erikmorton@example.net,"9025 Bennett Path Apt. 053
+North William, IA 60066",Dammam,Qatar,Logistics Partner,C,COD,25,4.3,0.88,366,3136229.86,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.621501
+SUP1012,BP,Danielle Johnson,001-648-565-6838,zwilson@example.net,"962 Jennifer Squares
+North William, MI 60313",Dubai,Saudi Arabia,Fuel Supplier,C,COD,15,4.9,0.886,409,734187.31,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.622072
+SUP4415,Logistics Services,Ethan Hernandez,(603)482-9536,charlotte74@example.org,"5490 Sanchez Plaza
+Michaelmouth, WA 56388",Dammam,Qatar,Service Provider,A+,COD,7,4.4,0.895,502,3254969.09,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.622645
+SUP9791,Distribution,Clayton Henderson,(817)246-3626x391,aaron88@example.net,"39536 John Summit
+Port Nancy, MT 79706",Doha,Kuwait,Logistics Partner,A,Net 15,26,4.7,0.866,836,5831923.65,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.623230
+SUP6035,Heavy Equipment,Patricia Jimenez,001-437-954-8362,huntstephen@example.org,"67025 Davis Ports
+East Glendaville, AS 64344",Dubai,Kuwait,Equipment Supplier,A,Net 15,20,4.0,0.966,202,1036773.96,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.623977
+SUP9497,Consulting Services,Cindy King,721-410-3345x70195,ramirezkevin@example.com,"06421 Roth Summit
+Barrerahaven, HI 54361",Dubai,Saudi Arabia,Service Provider,B+,Prepaid,20,4.9,0.921,45,1120758.5,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.624749
+SUP9843,BP,Molly Evans,(898)756-2835x4879,hardingtimothy@example.org,"6055 Danielle Parkways Apt. 870
+Brittanymouth, WI 98790",Dammam,Kuwait,Fuel Supplier,B+,COD,16,4.6,0.855,372,9240355.29,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.625455
+SUP6930,Logistics Services,Melissa Johnson,310.218.9758x63593,melissa54@example.net,"0730 Malone Cove
+Brownfort, VI 54440",Jeddah,UAE,Service Provider,B+,Net 15,22,3.6,0.863,548,9085911.96,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.626087
+SUP8651,Maintenance Services,Ashley Burton,784.360.9503x5772,sheila34@example.org,"4895 Lester Ranch Apt. 070
+South Olivia, MA 94854",Dammam,Kuwait,Service Provider,A+,Prepaid,8,5.0,0.971,134,3233640.4,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.626728
+SUP5062,Iveco Parts,Jeffrey Kelly,897-470-9738x1307,roymoore@example.org,"USCGC Jackson
+FPO AE 41449",Kuwait,Bahrain,Parts Supplier,B,Net 30,9,3.5,0.907,335,4084964.99,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.627360
+SUP7038,Chevron,Michael Orozco,8077709836,tapiajack@example.com,"74307 Justin Stream
+South Jamesfurt, SC 59029",Doha,UAE,Fuel Supplier,A+,COD,15,4.8,0.957,365,2792110.09,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.628217
+SUP1067,Mercedes Parts,Vincent Fox,691-553-5614x76677,upaul@example.net,"867 King Lock Apt. 304
+Barbarachester, NM 86656",Dammam,Qatar,Parts Supplier,B,Prepaid,11,4.9,0.9,709,964762.48,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.629078
+SUP7135,Mercedes Parts,Paul Salas,795-894-4804,denisemiller@example.net,"073 Jenkins Hills Apt. 803
+North Andrewhaven, IA 80338",Riyadh,UAE,Parts Supplier,C,Net 30,16,4.9,0.931,775,8554003.83,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.632479
+SUP8244,Volvo Parts,Meagan Foster,+1-220-544-2589x71168,deniseanderson@example.com,"441 Maria Drive
+Nelsonchester, OH 23790",Jeddah,Bahrain,Parts Supplier,B+,Net 15,9,4.6,0.862,235,6143809.51,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.634445
+SUP8200,MAN Parts,Kevin Gonzalez,295-250-2993x74587,youngdevin@example.org,"1970 Daniel Canyon Apt. 880
+Jacobsonville, IN 17599",Jeddah,Saudi Arabia,Parts Supplier,C,COD,26,4.4,0.973,687,4232498.6,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.635497
+SUP4871,Transportation,Amanda Smith,536.929.4632,snowmelanie@example.com,"34757 Sanchez Brooks Suite 754
+Port Tinaland, NE 02094",Kuwait,Qatar,Logistics Partner,B,COD,7,4.0,0.932,809,1742546.19,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.636253
+SUP4434,Technology Equipment,George Lee,+1-315-239-7521x54200,samuelblackwell@example.com,"01322 Hinton Shores Apt. 500
+Jessicabury, WV 60390",Jeddah,Saudi Arabia,Equipment Supplier,B,COD,29,4.0,0.931,576,2140058.28,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.636981
+SUP1672,Aramco,Jennifer Brown,228-535-1352,shannonbryant@example.net,"7449 Mccarty Turnpike
+Mejiafort, NM 29603",Dubai,Qatar,Fuel Supplier,B+,Net 30,30,4.7,0.911,895,5086461.91,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.637690
+SUP2393,Distribution,Sarah Reed,(946)985-4513x435,tracyterry@example.org,"04550 Hatfield Prairie
+Aaronfort, MI 04693",Dammam,Kuwait,Logistics Partner,B,Net 15,17,4.6,0.862,476,9305606.67,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.638376
+SUP8929,Maintenance Services,Gina Aguilar,+1-361-934-1650x2991,emily15@example.org,"USCGC Wilson
+FPO AP 77225",Dubai,Bahrain,Service Provider,A,Net 30,26,4.7,0.889,973,5492112.18,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.638839
+SUP6603,Heavy Equipment,Gary Wiggins,438.894.1850x26192,rgonzalez@example.net,"025 Duffy Hills Apt. 035
+Lake Philip, VA 34185",Kuwait,Bahrain,Equipment Supplier,A+,COD,25,3.6,0.909,685,2335262.14,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.639472
+SUP3250,Safety Equipment,Regina Carter,(853)418-3601x36874,andre32@example.net,"662 Robert Lodge Apt. 168
+Codyborough, ME 08873",Dubai,Qatar,Equipment Supplier,B,COD,26,4.8,0.85,347,6408935.98,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.640031
+SUP4139,Logistics Services,Patrick Moore,+1-742-698-6911x7208,laurenvincent@example.net,"Unit 2028 Box 6707
+DPO AP 66249",Dammam,Saudi Arabia,Service Provider,A+,COD,25,4.2,0.873,284,7925638.17,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.640520
+SUP3233,Shell,Michael Collins,(281)655-6566x73800,brandon66@example.org,"36581 Mark Brook Apt. 236
+West Courtneyside, DE 35088",Dammam,Qatar,Fuel Supplier,C,COD,12,4.5,0.909,401,1530668.74,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.641096
+SUP1496,Warehousing,Karen Olson,745.824.6437x147,xhughes@example.org,"0394 Alvarez Islands
+Anitafurt, PW 98895",Jeddah,Kuwait,Logistics Partner,B+,Net 15,16,4.9,0.948,879,8155564.91,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.641703
+SUP6285,Technology Equipment,Stephanie Morgan,001-687-945-2818x81178,shafferrebekah@example.com,"Unit 8445 Box 8506
+DPO AE 28907",Dubai,Bahrain,Equipment Supplier,A,Net 30,27,4.7,0.979,433,6602574.39,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.642180
+SUP9203,Distribution,Douglas Novak,313.452.1932x2665,tony56@example.org,"433 James Valley Apt. 001
+Rodriguezborough, SD 91827",Riyadh,UAE,Logistics Partner,A,Prepaid,12,4.2,0.934,913,1002955.82,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.642764
+SUP4680,Scania Parts,Glenn Fitzgerald,(500)719-8132x358,jennalee@example.org,"4137 Charles Divide
+Blairside, KY 44682",Dubai,Kuwait,Parts Supplier,B+,Prepaid,13,4.0,0.913,703,9275622.76,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.643438
+SUP8869,MAN Parts,Peter Wilson,001-907-877-2969,bholmes@example.net,"621 Crystal Expressway Apt. 091
+Nashmouth, MH 07870",Riyadh,UAE,Parts Supplier,C,Prepaid,7,4.7,0.952,149,3134338.26,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.644054
+SUP7505,Heavy Equipment,Matthew Lee,8436528799,ktate@example.net,"9866 Thomas Bridge
+North Heidishire, DE 91272",Riyadh,UAE,Equipment Supplier,A,Net 15,18,3.9,0.905,867,3548777.29,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.644623
+SUP4376,Safety Equipment,Michelle Brown,+1-941-896-4876,travis79@example.com,"51453 Blake Dam Suite 629
+East Jameshaven, IL 15776",Doha,Qatar,Equipment Supplier,A+,Prepaid,28,4.0,0.882,49,7692671.9,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.645188
+SUP4741,Scania Parts,Matthew Robinson,(661)567-6461x7435,xhamilton@example.net,"53680 Shawn Prairie
+Michaelport, MP 34628",Dubai,UAE,Parts Supplier,A,Prepaid,28,4.7,0.876,331,5704977.0,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.645767
+SUP2280,Iveco Parts,Amber Bass,001-401-802-7973x63956,huntshaun@example.com,"Unit 1620 Box 5888
+DPO AE 65275",Dubai,Kuwait,Parts Supplier,A+,Net 15,1,4.6,0.936,940,2547389.48,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.646237
+SUP5050,Heavy Equipment,Jeffrey Sullivan,624.633.4134x0995,jonathonferrell@example.net,"9254 Laura Ridge
+South Andre, CA 78202",Dammam,Kuwait,Equipment Supplier,B,COD,18,4.1,0.935,16,5826642.42,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.647611
+SUP5413,Consulting Services,Brittany Golden,850.358.9633,mauricewood@example.net,"9842 Ariel Ville
+Adamsland, RI 74722",Dammam,UAE,Service Provider,A,Prepaid,1,3.8,0.909,143,5984756.38,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.649603
+SUP5236,Scania Parts,Kathryn Carson,941-894-1328,norrisrichard@example.com,"034 Jasmine Expressway
+New Joshua, MI 33524",Kuwait,Kuwait,Parts Supplier,A+,Net 30,12,3.5,0.898,390,7343512.49,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.650541
+SUP6376,Heavy Equipment,Paul Hernandez,+1-678-456-8501,chelseaavery@example.com,"54513 Lance Point Apt. 107
+Shirleyfurt, IL 09386",Kuwait,Kuwait,Equipment Supplier,B+,Net 15,11,3.8,0.909,145,3598928.33,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.651264
+SUP1490,Safety Equipment,Kathleen Joseph,225-766-4315x1551,karina64@example.org,"41334 Espinoza Trail
+North Eriktown, MI 31188",Kuwait,Bahrain,Equipment Supplier,A+,Prepaid,13,4.6,0.911,118,8593540.46,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.651902
+SUP6790,Distribution,Patricia Simpson,+1-918-708-5714x299,william52@example.com,"PSC 3179, Box 1350
+APO AP 40791",Jeddah,Saudi Arabia,Logistics Partner,B,COD,13,4.8,0.886,93,1772165.74,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.652284
+SUP5881,Safety Equipment,Stephanie Torres,+1-948-330-4959x85728,martineztony@example.net,"398 Lori Springs Suite 788
+North Robert, NM 62147",Jeddah,Saudi Arabia,Equipment Supplier,A,Net 30,24,3.6,0.905,779,923512.82,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.652968
+SUP8251,Distribution,Patricia Munoz,001-327-222-5782x672,xgould@example.org,"562 Mcknight Ferry
+South Jenniferchester, FL 78382",Doha,Bahrain,Logistics Partner,B,Net 30,18,4.3,0.915,401,8890034.79,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.653591
+SUP9790,Warehousing,Scott Hunt,(577)650-6820x6690,cberry@example.com,"52880 Perez Viaduct
+Lake Susan, OK 80226",Jeddah,Saudi Arabia,Logistics Partner,A,Net 30,19,4.8,0.948,675,4830859.15,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.654202
+SUP2754,Warehousing,Tracy Buchanan,338.860.8376x91192,james42@example.com,"PSC 5580, Box 1091
+APO AA 50335",Jeddah,UAE,Logistics Partner,C,Net 15,5,4.2,0.916,662,4847039.37,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.654572
+SUP5852,Transportation,Joshua Gonzalez,(384)200-5740x658,aosborne@example.net,"218 Ryan Crest
+Rhodesfurt, GA 39013",Dammam,Kuwait,Logistics Partner,C,Net 15,30,4.9,0.941,968,1969104.8,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.655173
+SUP3798,Maintenance Services,Elaine Price,+1-337-251-5597,sheila67@example.com,"042 Thompson Street
+South Vickie, MI 54057",Kuwait,UAE,Service Provider,B,Prepaid,13,4.3,0.881,746,4957749.07,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.655831
+SUP3365,Technology Equipment,John Schwartz,588.770.8569x9627,brandonpena@example.net,"045 Sharon Vista
+South Heatherburgh, VI 42836",Dubai,Saudi Arabia,Equipment Supplier,C,Net 15,19,4.7,0.912,573,1836647.21,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.656499
+SUP1859,Transportation,Nicole Jones,674-868-3276x5165,conradgina@example.net,"4276 Williams Extensions
+Lindaburgh, GA 13008",Dubai,Qatar,Logistics Partner,A,COD,11,4.8,0.951,595,6945865.63,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.657319
+SUP4646,Distribution,John Newton,3893891183,nstanley@example.com,"204 Morse Plaza Suite 136
+New Michelleside, OH 58816",Kuwait,Bahrain,Logistics Partner,B,Prepaid,23,3.5,0.885,167,2708653.99,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.657955
+SUP8635,MAN Parts,Joseph Johnson,218.594.2762,zimmermanjennifer@example.com,"540 Robert Prairie Suite 934
+Jamieview, DE 70752",Doha,Saudi Arabia,Parts Supplier,C,Prepaid,5,4.3,0.856,308,7265911.62,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.658619
+SUP6559,Warehousing,Michael Woods,534.803.9831x2218,billysilva@example.org,"8676 Samantha Green
+South Jenniferland, WY 32059",Jeddah,UAE,Logistics Partner,A,Net 30,28,3.6,0.861,71,7861392.89,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.659266
+SUP4245,Chevron,Christina Mccullough,367.538.2098x016,jennifer71@example.net,"850 Amanda Manors
+Hernandezburgh, SD 82222",Dubai,UAE,Fuel Supplier,C,Net 15,27,3.9,0.855,604,5148789.46,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.659841
+SUP2734,Logistics Services,Lindsey Fritz,+1-611-237-9195x690,charleswatkins@example.org,"USNV Lowe
+FPO AA 79145",Riyadh,Qatar,Service Provider,B+,Net 15,19,4.7,0.97,361,5655554.55,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.660402
+SUP8589,Safety Equipment,Bryan Mclaughlin,(339)650-2670x300,wryan@example.org,"95517 Randy Causeway Suite 898
+North Brandon, PR 17751",Dubai,Saudi Arabia,Equipment Supplier,C,Net 30,20,4.5,0.871,209,4757368.95,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.660997
+SUP1488,Mercedes Parts,Sheri Welch,624-324-9726x756,sarah24@example.net,"6667 Danielle Union Suite 098
+Huntview, OR 74088",Dubai,Saudi Arabia,Parts Supplier,B,COD,8,4.0,0.852,11,8399513.39,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.661586
+SUP5781,Total,Dawn Shaw,(979)971-2911x51891,markjohnson@example.org,"474 Mcknight Road Apt. 367
+East Calvin, AL 14013",Dubai,Bahrain,Fuel Supplier,A,Net 30,6,4.3,0.903,923,3340278.7,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.662277
+SUP8915,Chevron,Sharon Perez,6815123935,jenniferphillips@example.org,"09019 Francis Rapids Suite 433
+Newtonburgh, MH 65614",Jeddah,Qatar,Fuel Supplier,B+,Net 30,21,3.6,0.901,439,4529068.0,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.663008
+SUP6533,Scania Parts,Lisa Clark,4957835962,xcarroll@example.org,"96613 Theresa Avenue
+Johnsonmouth, AL 42162",Dammam,Bahrain,Parts Supplier,C,Prepaid,3,3.7,0.947,927,3577197.45,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.664975
+SUP5685,Shell,Brian Ho,001-794-909-4007x40538,vcarney@example.net,"59066 Haas Spring Suite 058
+Jessicafort, GU 78785",Riyadh,Kuwait,Fuel Supplier,B,Prepaid,5,3.6,0.932,850,875003.4,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.665994
+SUP3281,Iveco Parts,Dr. William Hebert,986.987.5047x7672,carolyngomez@example.net,"PSC 5050, Box 4098
+APO AE 55869",Riyadh,Kuwait,Parts Supplier,A+,Prepaid,12,3.5,0.962,533,7784812.31,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.666496
+SUP2802,Shell,Douglas Martinez,4312494596,brettmoore@example.com,"6359 Trevor Track
+Turnerburgh, CT 19961",Riyadh,UAE,Fuel Supplier,A+,Prepaid,2,4.3,0.969,183,8693555.82,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.667173
+SUP3921,Total,Mark Mitchell,+1-239-220-5869,xhansen@example.org,"254 Susan Street Suite 546
+East Jeremiahfort, DC 52108",Kuwait,Bahrain,Fuel Supplier,C,Net 30,29,4.0,0.948,141,6810793.36,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.667766
+SUP3929,Iveco Parts,Cathy Hughes,(497)282-9771x8746,timothy91@example.org,"Unit 1587 Box 1606
+DPO AA 39581",Jeddah,UAE,Parts Supplier,A,Prepaid,4,3.8,0.959,602,2869142.79,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.668147
+SUP8689,Distribution,Karen Scott,221.312.8640x715,vanessabrown@example.com,"2916 King Underpass
+New Natalie, FM 96814",Doha,Qatar,Logistics Partner,A+,Net 30,16,4.5,0.912,592,7668696.7,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.668825
+SUP7499,Maintenance Services,James Carson,2287555796,phillipsmichelle@example.org,"7827 Ashley Expressway
+Erikafurt, MH 48327",Dubai,Kuwait,Service Provider,A,Net 15,2,5.0,0.932,917,2937173.06,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.669481
+SUP3491,Safety Equipment,Kristina Green,377.507.3855,dmeyer@example.net,"902 Mendez Junction
+Tamarahaven, SC 82494",Kuwait,UAE,Equipment Supplier,B,Net 15,23,4.6,0.931,382,3643972.07,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.670378
+SUP6329,Chevron,Carlos Fernandez,001-432-848-2576x618,kevinnash@example.org,"82132 Amanda Rapids
+Deniseborough, AR 93273",Jeddah,Bahrain,Fuel Supplier,A,COD,7,3.9,0.89,533,5124031.16,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.671287
+SUP1853,Warehousing,Troy Richard,214.669.5721x58128,hgarcia@example.org,"07824 Bradley Mills Apt. 068
+South Harold, FL 01146",Kuwait,Bahrain,Logistics Partner,C,Net 30,16,4.0,0.924,998,7472696.46,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.671948
+SUP9030,Distribution,Jason Webster,2592326546,kelly03@example.com,"0210 Romero Extension Suite 385
+South Jamesfort, SC 37077",Dammam,Kuwait,Logistics Partner,B+,Net 15,28,3.7,0.968,519,1969203.66,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.672566
+SUP4617,BP,Dennis Andrews,+1-727-751-7402,rburke@example.net,"192 Huynh Spring
+Reedburgh, KS 98662",Doha,Kuwait,Fuel Supplier,A,Net 15,30,3.5,0.979,298,1150437.21,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.673214
+SUP9591,BP,Sydney Daniels,542-895-3620,romerosamantha@example.com,"39788 Schwartz Keys Apt. 136
+New Kenneth, FM 18847",Kuwait,Bahrain,Fuel Supplier,C,COD,21,4.9,0.889,332,6553408.49,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.673937
+SUP8339,Technology Equipment,Stacey Villanueva,605-328-4882x52297,allenjessica@example.net,"04307 Robin Glens Suite 241
+South Maryside, IL 55798",Riyadh,Bahrain,Equipment Supplier,C,Net 30,5,4.1,0.922,256,2954591.61,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.674809
+SUP1828,Consulting Services,Elizabeth Wilson,001-667-861-0331x935,donald48@example.com,"9886 Evans Springs
+West Donnaport, DC 22280",Jeddah,Kuwait,Service Provider,A,Prepaid,6,4.6,0.868,684,9903874.45,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.675677
+SUP7807,Logistics Services,Lori Berger,477.296.8700x851,samanthanorris@example.com,"43025 Pacheco Cove Apt. 497
+Port Annebury, SC 87155",Kuwait,Qatar,Service Provider,B,Net 30,18,4.5,0.869,950,5290560.96,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.676589
+SUP3789,Warehousing,Breanna Campbell,622.981.6562x87844,moorekelly@example.com,"52061 Grace Crossing
+Port Todd, GU 99728",Dammam,Qatar,Logistics Partner,A+,COD,27,4.1,0.906,114,3972168.67,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.677409
+SUP1562,Technology Equipment,Autumn Woods,539-414-2929,teresamontgomery@example.com,"88608 Luis Mount
+Smithport, OK 88581",Dubai,UAE,Equipment Supplier,B,COD,24,3.7,0.952,692,6493309.52,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.678242
+SUP1019,Warehousing,James Arnold,(714)702-6015x49020,brittanywatts@example.org,"830 Frank Ramp
+Keithborough, CO 12083",Riyadh,Qatar,Logistics Partner,A+,Net 30,25,4.1,0.852,390,5583431.44,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.679065
+SUP5278,MAN Parts,Dorothy Flores,317.463.8383x87987,lisa24@example.net,"165 Chapman Squares
+Johnsonmouth, PW 29072",Riyadh,Bahrain,Parts Supplier,A,Prepaid,1,4.4,0.926,404,5441192.48,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.679750
+SUP1136,Mercedes Parts,Brandy Shelton,(727)699-6703x5030,christina32@example.org,"452 Smith Union
+North Ashleyville, NE 68224",Doha,Saudi Arabia,Parts Supplier,C,COD,27,4.1,0.963,339,7015255.74,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.683109
+SUP3807,Technology Equipment,Steven Johnson,+1-711-836-7014x57259,ashley53@example.org,"7196 Frank Valley
+Joelside, CO 36688",Dubai,Bahrain,Equipment Supplier,A+,Net 15,8,4.0,0.965,22,587808.08,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.684077
+SUP5040,Mercedes Parts,Henry Hernandez,843.403.7916x09137,elizabethbrown@example.net,"6542 Clayton Summit Suite 103
+Ronaldtown, MD 94917",Doha,Saudi Arabia,Parts Supplier,C,COD,30,3.5,0.947,426,6775243.27,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.684864
+SUP4470,Logistics Services,Haley Conley,491.207.4065x28738,nathanharris@example.com,"88229 Antonio Island Suite 715
+New Rachael, WY 09671",Jeddah,Qatar,Service Provider,A+,Prepaid,2,3.8,0.978,720,6390243.84,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.685545
+SUP3783,Heavy Equipment,Mr. Antonio Gallegos,(422)749-8814,rodriguezjohn@example.org,"70485 Scott Streets Apt. 016
+Martinezchester, ND 13764",Dammam,Kuwait,Equipment Supplier,C,COD,21,3.5,0.974,764,3112027.84,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.686256
+SUP5379,Volvo Parts,Joanna Gill,(939)299-2190x0259,sjohnson@example.net,"33528 Aaron Forks Suite 203
+Turnerberg, MA 31738",Dubai,Kuwait,Parts Supplier,A+,Net 30,30,4.5,0.918,663,4041532.66,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.686886
+SUP1781,Chevron,Mr. Craig Brewer,(428)706-1615x013,albert46@example.com,"32066 Travis Flats
+Lake Angela, CO 43539",Dammam,Qatar,Fuel Supplier,B+,COD,18,4.8,0.932,561,5285231.61,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.687441
+SUP9898,Shell,Karen Wright,618-562-1358x276,lisarodriguez@example.org,"PSC 9715, Box 7906
+APO AE 72412",Dammam,Saudi Arabia,Fuel Supplier,A+,Prepaid,21,4.9,0.886,804,6014313.81,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.687914
+SUP5879,Mercedes Parts,Tammy Shah,+1-354-725-6871x4623,jeffreyray@example.org,"39256 Burnett Pines Suite 851
+New Katherine, PA 67806",Dubai,Bahrain,Parts Supplier,B+,Net 15,15,4.6,0.864,265,7030052.9,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.688655
+SUP9438,Heavy Equipment,David Beard II,391.497.1096x2854,khoward@example.org,"045 Louis Stravenue Apt. 702
+Beckerfurt, RI 41774",Dammam,Qatar,Equipment Supplier,B+,Net 15,22,4.6,0.911,66,387323.47,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.689298
+SUP4814,Logistics Services,Donna Simpson,+1-717-475-5576,dalemartin@example.net,"8126 Sarah Mountain Suite 018
+Perryton, WY 34328",Dubai,Qatar,Service Provider,C,Net 15,3,4.4,0.886,277,6247563.76,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.689991
+SUP8702,Safety Equipment,Casey Robinson,+1-728-408-9309x55340,rodrigueztheresa@example.net,"3222 Emily Falls Suite 537
+Adamhaven, GU 93339",Jeddah,Kuwait,Equipment Supplier,C,Net 15,22,4.6,0.872,654,5251608.64,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.690671
+SUP9677,Consulting Services,Steven Green,(702)563-0239x498,tony65@example.com,"7835 Isabel Heights
+East Paulville, MA 87515",Doha,Qatar,Service Provider,A,Prepaid,7,4.5,0.923,464,2407535.81,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.691232
+SUP1265,Total,Julie Vaughn,+1-399-795-2473x803,jonesteresa@example.com,"292 Martinez Loaf Apt. 799
+Smithchester, KS 65033",Kuwait,UAE,Fuel Supplier,A,Net 30,28,4.3,0.89,555,2180726.62,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.691962
+SUP8670,Shell,Jeffrey Martin,+1-244-959-9812,gabrielle58@example.net,"396 Kevin Forge Suite 900
+East Dannyland, SD 43509",Dammam,Kuwait,Fuel Supplier,B+,Prepaid,29,4.5,0.859,408,1812446.4,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.692535
+SUP2059,Iveco Parts,James Nelson,+1-391-258-8981x1459,susan90@example.com,"PSC 4968, Box 6885
+APO AE 55971",Riyadh,Saudi Arabia,Parts Supplier,B,Prepaid,23,3.8,0.95,731,4205297.24,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.692906
+SUP2308,Chevron,Karen Payne,574-616-4565,heathermorrison@example.net,"27934 Kelly Row
+Bowenbury, WA 01179",Dubai,Kuwait,Fuel Supplier,A,Prepaid,9,5.0,0.939,327,2420774.67,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.693602
+SUP2321,Safety Equipment,Jonathan Wilson,+1-566-959-8827x60029,hamptonjulie@example.com,"956 Bill Ramp Apt. 874
+Mckenzieport, MO 44349",Dammam,Kuwait,Equipment Supplier,B+,Net 30,5,4.7,0.977,827,5367102.84,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.694271
+SUP6354,Heavy Equipment,David Clark,001-561-985-6475x80020,gloriapatel@example.org,"4087 Smith Shoal
+Port Stevenland, AL 74776",Jeddah,UAE,Equipment Supplier,B+,COD,13,4.6,0.971,727,9617908.17,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.694964
+SUP8677,Distribution,Andrea Lopez,509-280-2499x742,powellnathan@example.org,"602 Samantha Mountain Suite 782
+Davidtown, KY 97626",Doha,Qatar,Logistics Partner,A+,Net 30,6,3.8,0.952,988,1313655.25,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.695630
+SUP8248,Logistics Services,Jeremy Bailey,001-932-615-4285x0685,idunlap@example.net,"0870 William Crescent
+Randyhaven, WY 17221",Kuwait,Qatar,Service Provider,B,Prepaid,30,4.5,0.939,914,3135905.51,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.696222
+SUP6528,Consulting Services,Sheryl Perez,001-889-659-5640x7400,bryantmelissa@example.net,"628 Garcia Locks
+West Jordanview, SC 32598",Doha,Kuwait,Service Provider,A,Net 15,14,4.7,0.899,718,8603038.22,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.698769
+SUP2597,Transportation,Nicholas Baker,458.409.2775x678,timothyramirez@example.net,"78392 Tyler Crest Apt. 652
+New David, HI 30714",Jeddah,UAE,Logistics Partner,B,Net 15,24,4.6,0.859,922,5145348.38,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.700000
+SUP5519,BP,Alyssa Buck,+1-701-296-3287x0402,marthawright@example.net,"1310 Edward Squares
+New Taramouth, KS 48925",Dubai,Qatar,Fuel Supplier,A,COD,17,4.3,0.933,571,1367489.11,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.700966
+SUP3688,Warehousing,Cassandra Webb,(205)729-2317,mjohnson@example.net,"179 April Mountain
+East Debbie, PW 32437",Dammam,Bahrain,Logistics Partner,A+,Prepaid,24,4.1,0.89,422,9836351.99,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.701561
+SUP5945,Safety Equipment,Ruth Wood,440-999-9813x392,hbooth@example.net,"1952 Lee Underpass
+Martinhaven, NJ 00638",Dammam,UAE,Equipment Supplier,A,Net 30,13,4.1,0.91,243,8269696.37,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.702216
+SUP7239,Shell,Jeremy Mcdaniel,+1-390-633-5233,heatherortiz@example.org,"3277 Jones Highway
+East Dianaview, SD 26109",Doha,Kuwait,Fuel Supplier,A+,Prepaid,1,4.8,0.908,927,7507806.05,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.702903
+SUP7835,Chevron,Gregory Barker,+1-460-923-4444x35504,kennethharris@example.net,"310 Ashley Forks
+East Elizabeth, KY 42389",Dammam,Qatar,Fuel Supplier,C,Net 30,7,4.3,0.879,272,6614801.9,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.703552
+SUP4337,Scania Parts,Karen Rhodes,+1-364-992-4311x43321,mayjulie@example.net,"7896 Wendy Drives
+North Christine, MI 87998",Kuwait,UAE,Parts Supplier,B+,Net 30,23,3.9,0.98,101,3755402.31,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.704219
+SUP1434,Technology Equipment,Shelly Elliott,(298)376-2618,johnshelton@example.net,"1739 Emily Haven Suite 844
+Port Tiffanyburgh, CT 78896",Jeddah,Bahrain,Equipment Supplier,B,COD,13,4.0,0.951,363,1222427.19,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.704920
+SUP1288,Heavy Equipment,Thomas Downs,681-867-3330x640,ajohns@example.net,"4018 Clark Fort Suite 234
+Graymouth, CT 22870",Riyadh,Kuwait,Equipment Supplier,B,Net 30,16,4.1,0.979,771,3490854.01,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.705584
+SUP1156,BP,Crystal Andersen,999.611.1779x0974,ypayne@example.org,"89575 Young Divide
+West Caleb, TX 03031",Doha,Qatar,Fuel Supplier,C,Net 15,16,4.9,0.946,415,8089130.18,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.706216
+SUP4407,Distribution,Edward Foster,511.395.2228x128,michelle82@example.com,"601 Gutierrez Bypass
+Paynefurt, NE 63280",Doha,Saudi Arabia,Logistics Partner,A+,COD,25,4.8,0.868,820,1682014.7,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.706826
+SUP5741,MAN Parts,Zachary Barker,+1-242-621-5076x588,harristheresa@example.org,"85851 Tonya Walk Apt. 022
+Melissaville, IN 35590",Dammam,Kuwait,Parts Supplier,A,Net 30,2,4.1,0.958,833,4677920.94,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.707723
+SUP3420,Mercedes Parts,Howard Miller,809-792-3537,johnrogers@example.net,"30699 Christine Drive
+Erinburgh, MN 68085",Kuwait,Qatar,Parts Supplier,A+,Net 30,20,4.9,0.854,779,5792573.23,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.708495
+SUP2661,Warehousing,Michelle Lane,+1-480-929-5754x287,laura17@example.com,"8033 Terrell Forks Apt. 718
+Brandonfort, AZ 65732",Dubai,Qatar,Logistics Partner,A+,Prepaid,9,4.6,0.976,651,8421156.73,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.709132
+SUP2813,Heavy Equipment,Brittany Mosley,+1-323-370-3627x623,rachel60@example.org,"2247 Knox Meadows Suite 783
+Anthonyberg, CA 65746",Riyadh,Bahrain,Equipment Supplier,B,Net 30,26,4.5,0.882,25,4129786.47,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.709752
+SUP9092,Total,Matthew Davies,860-633-8859,qperry@example.org,"4497 Huff Parks
+Lake Janet, MS 44906",Doha,Bahrain,Fuel Supplier,B,Net 30,29,3.8,0.881,319,4650714.83,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.710385
+SUP6377,Consulting Services,Richard Powell,819-524-1287,woodbrian@example.com,"31147 Maria Lodge Apt. 383
+Port Theresa, PR 59170",Riyadh,Kuwait,Service Provider,B,Net 30,21,4.6,0.946,475,7320803.53,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.711075
+SUP4704,Maintenance Services,Brent Johnson,305.886.7079x20074,marc81@example.org,"0719 Diaz Views
+Port Miranda, CT 44279",Jeddah,Kuwait,Service Provider,B,Prepaid,20,3.6,0.92,286,8624613.93,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.711752
+SUP5990,Safety Equipment,Russell Kelly,713-296-1842x42469,npatterson@example.com,"080 Marisa Dale Apt. 025
+North Kaylafurt, AS 70043",Doha,Saudi Arabia,Equipment Supplier,B+,COD,4,4.3,0.895,493,5957756.11,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.712609
+SUP4446,Heavy Equipment,Lori Williams,(360)533-7975x53620,sandra04@example.com,"507 Marc Loop
+Johnsonland, TN 73890",Kuwait,Kuwait,Equipment Supplier,B+,Prepaid,12,3.6,0.916,902,6049256.49,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.716009
+SUP9621,Technology Equipment,John Contreras,+1-965-602-7823x18701,egreene@example.net,"78964 Kevin Glens
+East Kevinshire, AK 45547",Doha,UAE,Equipment Supplier,A,Prepaid,17,3.9,0.857,834,9332438.01,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.717726
+SUP2578,Shell,Caitlyn Larsen,881-420-0838,llyons@example.com,"5694 Chambers Fall Apt. 627
+South Perry, MH 94467",Doha,Saudi Arabia,Fuel Supplier,A,Net 15,24,4.2,0.892,571,3317405.14,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.719202
+SUP7180,BP,Reginald Morgan,001-828-623-7673,david00@example.com,"027 Ryan River
+Annechester, AR 61378",Dammam,Saudi Arabia,Fuel Supplier,C,Net 15,13,4.4,0.947,407,3303716.48,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.719867
+SUP5645,Warehousing,James Miller,(830)330-7010,kevinholden@example.com,"00116 Amanda Flats Suite 795
+South Nicholasburgh, LA 32475",Dammam,UAE,Logistics Partner,B+,Net 30,10,4.4,0.868,373,3176684.93,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.720566
+SUP1309,Warehousing,Debbie Colon,425-248-8367x5682,gewing@example.com,"68183 Hicks Corner
+West Roberttown, VA 15021",Riyadh,Qatar,Logistics Partner,B,Net 15,3,4.1,0.874,327,4551783.56,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.721199
+SUP9418,Distribution,John Diaz,(835)742-3698x29526,jeffreyreed@example.com,"7422 Daniel Station
+New Markland, TX 47259",Kuwait,Qatar,Logistics Partner,A+,Net 30,3,3.6,0.98,413,7083173.14,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.721854
+SUP9470,Heavy Equipment,Lori Craig,(663)951-1004x661,travis98@example.net,"80016 Eric Point Suite 926
+East Eric, CT 43354",Dubai,Saudi Arabia,Equipment Supplier,A+,Net 15,5,3.7,0.911,568,5264824.35,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.722426
+SUP7162,Chevron,Meredith Galloway MD,(984)881-1379x76167,caitlin68@example.org,"8552 Goodwin Rue Apt. 031
+Greenville, KY 65882",Jeddah,Kuwait,Fuel Supplier,B,Prepaid,22,4.2,0.916,247,8186159.29,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.723074
+SUP9704,Total,Christopher Crawford,+1-237-891-2275x337,robertclark@example.org,"2478 Andrade View Apt. 650
+South Kim, FM 52715",Kuwait,Kuwait,Fuel Supplier,C,COD,11,4.9,0.958,939,4277703.98,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.723767
+SUP3108,Safety Equipment,Brian Mills,6962233443,barbara82@example.org,"3995 Tracy Ridges Apt. 911
+New Deborah, RI 50924",Dubai,Kuwait,Equipment Supplier,A,Net 30,2,4.8,0.963,861,7821659.05,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.724322
+SUP6284,Scania Parts,Shawn Price,4558232885,perrybailey@example.org,"736 Nichole Point
+North Michael, HI 88414",Dubai,Kuwait,Parts Supplier,B+,Net 30,24,4.2,0.876,958,1936938.59,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.724973
+SUP3342,Heavy Equipment,Ashley Brown,(752)791-1762,santanamallory@example.org,"419 Burns Lock Apt. 929
+Forbesport, CA 13618",Dubai,Bahrain,Equipment Supplier,B+,Prepaid,6,4.2,0.865,687,9673261.34,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.725695
+SUP9808,Heavy Equipment,Michael Jones,(663)650-1165,lauradiaz@example.com,"Unit 1420 Box 6924
+DPO AA 67262",Kuwait,Saudi Arabia,Equipment Supplier,C,Prepaid,4,4.0,0.892,684,8005134.39,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.726162
+SUP1910,Safety Equipment,Emily Meyer,+1-936-756-9603,heather23@example.com,"825 Manning Grove Suite 203
+Wilsonmouth, WY 88806",Doha,Bahrain,Equipment Supplier,A,Net 15,24,5.0,0.861,356,9572717.89,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.726793
+SUP3555,Iveco Parts,Lisa Price,5415766943,karen24@example.org,"479 Fred Curve
+Scottville, PW 81311",Dubai,UAE,Parts Supplier,B,Net 15,16,4.6,0.918,464,6536458.38,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.727367
+SUP6688,Consulting Services,James Medina,+1-949-528-2712x66475,jonesnatalie@example.net,"58122 Palmer Station Apt. 964
+West Nicole, NY 07480",Dammam,Kuwait,Service Provider,C,Prepaid,20,4.6,0.874,820,325957.66,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.728062
+SUP6328,Distribution,Mary Pierce,510.562.4640x86297,amber28@example.com,"29681 Edgar Springs Apt. 542
+North Steven, NC 11712",Doha,Bahrain,Logistics Partner,C,COD,10,4.2,0.921,675,778073.1,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.728626
+SUP7975,Safety Equipment,Gary Williams,(988)947-9196x871,brandi54@example.com,"64627 Samuel Walks
+Port Pennychester, KY 30628",Dubai,Qatar,Equipment Supplier,B+,COD,18,4.2,0.959,454,1872204.04,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.729189
+SUP3009,Distribution,Bobby Hull,001-739-786-7222,williamsgina@example.org,"0406 Young Hill
+New Jorge, MS 22219",Riyadh,Kuwait,Logistics Partner,A+,Net 15,8,3.9,0.87,139,7545643.75,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.733351
+SUP2815,Total,James Chandler,+1-989-382-4469x966,shannonallison@example.com,"46131 Young Ports Suite 755
+Whiteberg, ID 55531",Riyadh,UAE,Fuel Supplier,B+,Net 30,4,4.7,0.907,115,160377.16,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.734346
+SUP1573,Consulting Services,Christine Garrett,610-745-3430x008,jenniferporter@example.net,"767 Cherry Village Apt. 081
+Robertville, SD 14251",Jeddah,UAE,Service Provider,B,Net 30,16,4.6,0.876,337,8654420.14,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.735353
+SUP5011,Warehousing,Jane Bailey,424-753-7644,shannonzamora@example.net,"770 Whitehead Flats
+Haletown, WY 25716",Kuwait,Qatar,Logistics Partner,A+,Prepaid,12,3.9,0.961,556,6829211.32,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.736099
+SUP9153,Warehousing,Nicole Chan,(779)364-1089x89437,ralph92@example.org,"410 Barnes Meadows
+Davidstad, MO 63488",Jeddah,Kuwait,Logistics Partner,B,COD,4,4.3,0.863,771,495777.61,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.736693
+SUP1586,Iveco Parts,Mathew Jones,893.264.5445x264,lanceroberts@example.net,"98497 Adkins Plaza
+Deannaland, NH 85155",Doha,Saudi Arabia,Parts Supplier,C,Prepaid,24,4.9,0.896,241,3969796.87,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.737376
+SUP3118,Technology Equipment,Lauren Woods,+1-853-968-3048x69750,nicoleortega@example.org,"25904 Martin Island
+Port Stevenberg, WI 01225",Dammam,Bahrain,Equipment Supplier,B,COD,4,3.8,0.873,713,3212763.67,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.738068
+SUP6145,Aramco,Sean Mcclure,560.601.8500,bakertommy@example.net,"279 Vang Unions Apt. 139
+Nicholsland, NY 78797",Dubai,Kuwait,Fuel Supplier,B,Net 15,2,4.9,0.871,414,1804520.17,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.738794
+SUP5706,Safety Equipment,Stephanie King,839-662-6239,shawnramos@example.com,"520 James Springs Apt. 216
+South Kimberly, SD 23591",Riyadh,Qatar,Equipment Supplier,B+,Prepaid,20,4.1,0.895,74,2431512.28,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.739499
+SUP7923,Technology Equipment,Kimberly Boyd,(267)366-6713,diane65@example.com,"2336 Weber Throughway Suite 608
+Whitetown, VT 74487",Dubai,Kuwait,Equipment Supplier,A+,Net 30,20,4.0,0.936,55,2368773.4,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.740120
+SUP7665,Safety Equipment,Kristi Nichols,+1-642-336-6671x815,victoriagoodwin@example.org,"8898 Nelson Crescent Suite 263
+Scottmouth, NJ 02081",Kuwait,Bahrain,Equipment Supplier,C,Prepaid,30,4.0,0.885,569,3678114.1,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.740862
+SUP5409,Consulting Services,Shannon Hughes,+1-624-867-1802x18725,alicenichols@example.com,"136 Jason Lakes
+North Melissa, NH 08368",Dubai,Saudi Arabia,Service Provider,C,Net 15,13,4.7,0.868,569,7733764.68,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.741510
+SUP3913,MAN Parts,Blake Boyd,919-770-4087,qcooper@example.org,"1747 Chan Square
+Dodsonstad, MA 51010",Riyadh,UAE,Parts Supplier,C,Net 15,8,3.7,0.933,933,5852155.5,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.742142
+SUP6474,Distribution,Kim Vaughan,950.620.9446,harrischarlotte@example.com,"123 David Wells Suite 542
+Joelland, SD 46123",Kuwait,Bahrain,Logistics Partner,B+,Net 30,9,4.2,0.87,495,4111018.76,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.742806
+SUP5397,MAN Parts,John Oliver,463.601.4962,michaelrivera@example.net,"Unit 7154 Box 7240
+DPO AP 36960",Kuwait,Qatar,Parts Supplier,B,Net 15,13,4.0,0.922,358,1903765.38,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.743273
+SUP3824,Logistics Services,Jane Palmer,4324182629,paul02@example.org,"109 Raymond Inlet
+East Stephaniestad, HI 03904",Riyadh,UAE,Service Provider,A,COD,15,4.8,0.959,684,9844342.01,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.743823
+SUP4426,Heavy Equipment,Lori Wilson,+1-778-971-0086x638,rgonzalez@example.net,"50887 Brianna Radial Suite 566
+East Loribury, OR 78065",Dammam,Qatar,Equipment Supplier,A,Net 30,18,4.8,0.929,643,1871120.85,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.744427
+SUP6910,Transportation,Adam Jones,7604771023,carrie62@example.com,"949 Melissa Crest Apt. 716
+Andersonshire, ID 03743",Doha,Qatar,Logistics Partner,A,Net 30,11,3.8,0.949,338,2767415.42,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.745008
+SUP3050,Logistics Services,Cynthia Baker,(408)285-8918x9854,joshuanolan@example.com,"9224 Jefferson Lights Apt. 577
+Brownfurt, IL 71443",Riyadh,Qatar,Service Provider,A+,Prepaid,7,4.1,0.924,216,4755582.27,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.746236
+SUP6709,Total,Christian Munoz,001-946-772-4945,brandon84@example.com,"8630 Stevens Dale Apt. 648
+East James, ID 94396",Riyadh,Qatar,Fuel Supplier,A,Net 15,13,4.1,0.931,488,8115538.71,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.747953
+SUP3974,Shell,Aaron Rice,+1-595-279-6791,teresaoliver@example.org,"41023 Sarah Place
+North Raven, HI 44418",Jeddah,Qatar,Fuel Supplier,B,Net 15,18,3.8,0.944,570,2625624.35,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.748885
+SUP2975,BP,Tracy Roberts,001-543-455-5286,davidhowell@example.com,"18040 Joseph Corners
+Lake David, PR 02890",Dammam,Bahrain,Fuel Supplier,A,Net 15,4,4.1,0.967,888,9982309.48,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.749946
+SUP3676,Safety Equipment,Mary Thompson,364.651.6290x41113,ywhite@example.com,"PSC 1742, Box 7761
+APO AA 94071",Dubai,Kuwait,Equipment Supplier,B+,COD,8,4.5,0.914,926,2128302.39,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.750658
+SUP5881,Maintenance Services,Jesse Short,001-412-537-3991,carrollbonnie@example.net,"Unit 3036 Box 5865
+DPO AP 74937",Doha,Qatar,Service Provider,A,COD,22,3.5,0.865,206,615023.13,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.751359
+SUP2333,Shell,Jacob Decker,(222)727-5340,hilljacqueline@example.net,"133 Joseph Glen Suite 548
+South Tyler, WI 01107",Jeddah,Saudi Arabia,Fuel Supplier,B+,Net 15,27,4.1,0.936,940,6261973.84,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.752174
+SUP8618,Transportation,Annette Jenkins,001-879-800-0897x742,pdudley@example.com,"491 Andre Path Apt. 292
+Aaronville, NJ 31676",Doha,Bahrain,Logistics Partner,A+,Net 30,16,4.2,0.851,25,7777127.36,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.752984
+SUP4006,Technology Equipment,Michelle Hodges,888-295-1585x2346,lcameron@example.org,"241 Jonathan Gateway Apt. 028
+Luisville, NM 45744",Doha,Qatar,Equipment Supplier,B,Prepaid,9,4.5,0.925,433,7203688.72,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.753717
+SUP7718,Heavy Equipment,Kristen Figueroa,(291)587-7825x4503,george44@example.com,"020 Tammy Stravenue Suite 106
+New Kylemouth, NV 38188",Dammam,Saudi Arabia,Equipment Supplier,A,Prepaid,3,4.4,0.944,117,9590333.27,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.754386
+SUP2268,Logistics Services,James Cooper,301-782-4647,cjones@example.net,"704 Sara Roads
+West Tyler, UT 41268",Dubai,Kuwait,Service Provider,A+,Net 30,11,4.9,0.939,577,8557025.33,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.755055
+SUP2430,Consulting Services,Rebecca Schaefer,878.637.6151,rreese@example.org,"17004 Wiggins Bridge
+Angelaside, TN 53574",Dubai,UAE,Service Provider,A,Prepaid,24,4.6,0.909,803,8610088.63,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.755775
+SUP4782,Volvo Parts,Eric Stewart,273.301.8862,georgescott@example.org,"0974 Brian Mews Suite 004
+Dianeview, MO 66173",Kuwait,Bahrain,Parts Supplier,A+,COD,22,4.6,0.911,577,6367197.7,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.756737
+SUP9463,Heavy Equipment,Justin Callahan,836-539-0409,jeffrobinson@example.net,"41943 Flores Port Apt. 141
+South Rickchester, NC 93279",Riyadh,Saudi Arabia,Equipment Supplier,A+,Net 30,16,4.4,0.894,583,5074787.13,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.757448
+SUP9151,Technology Equipment,Stephanie Sanchez,704.687.7684,veronica81@example.org,"058 Hudson Isle Suite 890
+Jeffersonchester, PA 86433",Dubai,UAE,Equipment Supplier,A,COD,15,3.5,0.94,261,5352594.71,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.758072
+SUP8698,Total,Alison Mccoy,208-427-0814x309,angelacarter@example.net,"9780 Brown Row Apt. 094
+Josebury, UT 14203",Jeddah,Bahrain,Fuel Supplier,C,COD,23,3.8,0.862,140,7154835.72,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.758771
+SUP4586,Transportation,Elizabeth Arnold,5286962825,khill@example.org,"1916 John Drive
+Baileychester, ND 74499",Kuwait,Qatar,Logistics Partner,C,Net 30,6,4.0,0.884,430,9139805.24,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.759375
+SUP2019,Total,Victoria Kerr,(932)982-3834x6894,kellyjoshua@example.org,"07175 Gray Plaza
+Oneillburgh, NM 86080",Jeddah,Bahrain,Fuel Supplier,A,Net 30,28,3.9,0.942,997,7881130.07,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.760087
+SUP6126,Mercedes Parts,Jeffrey Nelson,512.677.3670x541,michael21@example.org,"7019 Johnson Fork
+Rodgerschester, CO 08533",Dubai,Qatar,Parts Supplier,A+,Prepaid,24,3.7,0.971,559,6561965.09,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.760694
+SUP5409,Volvo Parts,Robert Cantu,+1-650-344-2350x85314,hernandezashley@example.com,"21529 Mayer Ferry
+South Ashley, NC 43198",Kuwait,Saudi Arabia,Parts Supplier,A+,Net 15,17,4.4,0.87,594,388344.19,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.761381
+SUP5007,Consulting Services,Becky Nunez,236.310.0623x759,lori61@example.com,"651 Shelton Keys Apt. 489
+Lake Geoffreybury, WI 70698",Jeddah,Saudi Arabia,Service Provider,B+,Net 30,5,4.1,0.911,791,4579577.43,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.761989
+SUP9045,Iveco Parts,Madison Castro,4717947560,flemingvictoria@example.com,"23709 Hart Heights Suite 006
+Katieland, TX 24351",Kuwait,Kuwait,Parts Supplier,B+,Net 15,22,3.7,0.89,200,3963445.87,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.762689
+SUP3388,Chevron,Jeffrey Allen,7554819804,joshua01@example.org,"35735 Jackson Ridges Suite 965
+Brandiland, VT 50635",Kuwait,Qatar,Fuel Supplier,B,Net 15,10,4.2,0.977,793,3306121.16,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.763279
+SUP6426,Total,Mr. David Ballard,+1-302-934-1639x93397,janice86@example.org,"5434 Roman Crossing Suite 530
+Hansenmouth, NY 31928",Riyadh,Bahrain,Fuel Supplier,C,Prepaid,5,4.4,0.888,307,2691601.45,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.765853
+SUP7230,Consulting Services,David Brown,001-897-646-3048x1033,lhansen@example.com,"Unit 5090 Box 7203
+DPO AP 05139",Kuwait,Saudi Arabia,Service Provider,B,COD,17,4.0,0.867,320,7014266.4,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.766637
+SUP2918,Consulting Services,Joel Morris,(830)719-7697x9817,melissa37@example.com,"62631 Michelle Row Suite 848
+Brianbury, TN 41045",Jeddah,Qatar,Service Provider,A,Net 15,27,4.9,0.925,448,339326.47,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.767254
+SUP4203,Consulting Services,Robert Nguyen,+1-817-355-3660x9685,nelsongabriella@example.com,"Unit 1558 Box 9985
+DPO AP 65676",Doha,Saudi Arabia,Service Provider,A+,Net 15,24,3.9,0.855,634,5068144.41,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.767734
+SUP2460,Mercedes Parts,Austin Olson,800.651.2687x55127,margarethubbard@example.net,"485 Joseph Dam Suite 188
+Maxwellmouth, NY 29782",Riyadh,Bahrain,Parts Supplier,A+,Net 15,14,5.0,0.915,623,7145703.61,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.768432
+SUP7931,Maintenance Services,Brenda Mendoza,285-412-1360x517,davidsmith@example.org,"80439 Kerri Run Suite 242
+South Valerie, DE 47715",Jeddah,Kuwait,Service Provider,A,Net 30,12,4.2,0.858,286,5170274.76,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.769105
+SUP1566,Technology Equipment,Stephanie Brown,229-668-7124x87318,batesmichael@example.com,"0794 Weiss Courts
+Escobarburgh, DC 32150",Kuwait,UAE,Equipment Supplier,B+,COD,21,4.1,0.878,326,7924135.11,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.769819
+SUP6507,Consulting Services,Jeffrey Casey,+1-596-866-7247x435,derek28@example.net,"64618 Walker Locks Suite 374
+Rossfort, NY 19332",Doha,UAE,Service Provider,C,Prepaid,21,3.8,0.952,882,125080.57,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.770454
+SUP2546,MAN Parts,William Simmons,001-980-658-5655,davismark@example.com,"39039 Burgess Drive
+Lake Wyatt, TN 67538",Dammam,Qatar,Parts Supplier,A,COD,18,4.9,0.945,154,2826984.3,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.771136
+SUP4212,Technology Equipment,Todd Vasquez,975-452-2706x95098,matthewbrown@example.org,"4806 Conner Lake
+Lake Dennishaven, AK 55172",Doha,Saudi Arabia,Equipment Supplier,A+,Net 15,15,4.9,0.971,899,3503656.34,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.771822
+SUP7120,BP,John Gonzalez,(660)698-1072,ycampbell@example.org,"62879 Ashley Harbor
+Annachester, MI 62465",Riyadh,Saudi Arabia,Fuel Supplier,A+,Net 30,26,4.4,0.872,413,7476593.23,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.772395
+SUP9040,Consulting Services,Jennifer Berry,679.501.2998,afarmer@example.com,"97563 Dixon Circle
+North Lauren, GA 99373",Jeddah,Kuwait,Service Provider,A+,Net 30,13,4.2,0.907,70,4303146.06,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.773009
+SUP7855,Volvo Parts,Sherry Stewart,342.557.0895x33731,nwolfe@example.com,"25164 Newman Run Apt. 382
+Lake Robert, AZ 68716",Doha,Qatar,Parts Supplier,A,Prepaid,4,3.6,0.867,902,1787874.36,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.773650
+SUP3863,Consulting Services,Shelly Villa,(748)328-9875,matthewaustin@example.org,"55879 Gibson Mount
+Rebeccahaven, CT 05232",Dubai,Saudi Arabia,Service Provider,C,COD,7,3.6,0.871,275,1181203.23,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.774334
+SUP9059,Chevron,Donna Greene,(345)823-1990x418,veronicalopez@example.net,"2931 Henson Rest Apt. 333
+Robertport, LA 14712",Dammam,UAE,Fuel Supplier,A+,Net 30,15,3.7,0.9,751,5273350.02,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.775035
+SUP8466,Technology Equipment,Michael Jacobson,001-623-795-2522x3430,taylor17@example.org,"307 Aaron Cliffs Suite 651
+New Mollyfurt, IL 83319",Dubai,UAE,Equipment Supplier,A+,Net 15,27,4.8,0.881,91,3118518.56,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.775597
+SUP1251,Distribution,Katrina Martin,535.319.7327x83101,thomasbrown@example.org,"87121 Matthew Port Suite 504
+New Scottland, GA 42901",Doha,Saudi Arabia,Logistics Partner,B,Prepaid,6,4.3,0.889,673,4952311.37,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.776265
+SUP3048,Distribution,Kristen Ho MD,(536)619-3245x105,cevans@example.com,"PSC 2573, Box 0725
+APO AA 04676",Jeddah,Qatar,Logistics Partner,A+,Net 15,22,4.9,0.936,589,9702736.67,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.776682
+SUP7893,Transportation,Christian Joseph,938.215.1493x7480,donna28@example.com,"810 Fisher Creek
+East Paulton, IL 28346",Doha,Qatar,Logistics Partner,A+,COD,28,4.2,0.942,601,2969534.95,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.777269
+SUP6779,Scania Parts,Briana Reynolds,(749)242-7019x6487,molinasandy@example.com,"USS Doyle
+FPO AP 18124",Riyadh,Saudi Arabia,Parts Supplier,B+,Net 15,10,3.9,0.9,169,5829969.93,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.777832
+SUP6078,Logistics Services,Brian Perry,001-852-289-7698,hburns@example.com,"0363 Lewis River
+Loganborough, MP 19623",Riyadh,Kuwait,Service Provider,B,COD,22,4.4,0.897,117,9252803.25,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.778431
+SUP8083,Transportation,Patricia Bell,6372276300,teresa24@example.org,"35712 Hall Creek
+Armstrongfurt, MS 65516",Doha,Bahrain,Logistics Partner,B,Net 30,20,3.9,0.872,231,5228002.17,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.779040
+SUP8627,Technology Equipment,Jason Nelson,001-464-470-0040,sarahbeard@example.org,"80968 Reeves Freeway Apt. 368
+New Laurenfurt, MH 53230",Doha,UAE,Equipment Supplier,C,Prepaid,6,3.5,0.959,837,8906456.73,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.779735
+SUP8287,BP,Dr. Joshua Smith,648-819-2409,lowemark@example.com,"29950 Mary Forge Suite 630
+South Douglasport, MO 16535",Riyadh,Qatar,Fuel Supplier,B,COD,17,4.1,0.91,80,8058000.83,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.781224
+SUP5160,MAN Parts,John Fernandez,+1-444-670-2658x964,martinjoshua@example.net,"7023 Nancy Underpass
+New Kevinhaven, MO 91692",Doha,Bahrain,Parts Supplier,B,Net 15,24,4.0,0.87,18,9190012.81,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.783464
+SUP2384,Heavy Equipment,Cory Tucker,287-912-0473x7346,matthew17@example.net,"2927 Robert Haven Apt. 385
+Alejandratown, OK 73175",Doha,UAE,Equipment Supplier,C,Net 15,23,4.7,0.977,772,9039167.4,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.784520
+SUP7005,Shell,Patricia Davis,(253)243-1254,afuller@example.com,"0749 James Avenue
+Laurenberg, MP 35643",Dammam,Bahrain,Fuel Supplier,A+,Prepaid,27,4.7,0.971,561,8007885.43,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.785196
+SUP2913,Distribution,Rachael Torres,+1-818-290-0477x5138,ingrambrian@example.org,"11546 Edwin Point Suite 236
+Katrinastad, WY 49929",Dubai,Bahrain,Logistics Partner,B,Net 15,26,4.2,0.868,774,5872931.82,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.785878
+SUP1371,Maintenance Services,Charles Hernandez,(306)780-3325x39450,sherry68@example.org,"6842 Mendoza View Apt. 011
+West Philip, NV 57973",Dubai,Kuwait,Service Provider,A+,COD,30,3.6,0.886,919,5579457.85,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.786673
+SUP1566,Heavy Equipment,Chelsey Williams,+1-800-768-0870x17336,edwin39@example.com,"8884 Edwards Way
+Port Daniel, NE 15312",Jeddah,Saudi Arabia,Equipment Supplier,C,Net 30,9,4.9,0.873,968,2149593.43,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.787586
+SUP9206,Iveco Parts,Mrs. Brooke Mcdonald,806-934-4217,woodlarry@example.net,"48987 Cohen Creek
+South Kathryn, AL 85268",Jeddah,Saudi Arabia,Parts Supplier,B+,COD,14,3.9,0.851,398,8226297.93,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.788461
+SUP5776,BP,Tammy Lopez,235.529.8807x94825,daviscollin@example.org,"9824 Michael Hill
+New Jessica, PA 37401",Doha,Kuwait,Fuel Supplier,A,Net 30,6,4.0,0.937,694,6628283.26,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.789305
+SUP3267,Safety Equipment,Tricia Kennedy,998-680-8233x02493,powelladam@example.org,"352 Kennedy Alley
+East Elizabethburgh, TN 73072",Dammam,Qatar,Equipment Supplier,B+,COD,17,4.9,0.911,96,6173661.87,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.790157
+SUP4309,Chevron,Pamela Montes,(399)471-2359,escobarwilliam@example.com,"3601 Gerald Fort
+West Walterport, SC 50045",Dubai,Qatar,Fuel Supplier,B,COD,16,4.3,0.926,829,2872377.89,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.790929
+SUP1087,Scania Parts,Craig Castro,585.622.5732x9983,stacieryan@example.net,"320 Malone Lights Suite 585
+North Brianport, OR 26063",Dammam,Bahrain,Parts Supplier,A+,COD,28,4.4,0.933,824,8976496.87,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.791746
+SUP5036,Heavy Equipment,Vicki Harding,+1-217-275-6704x55792,russellgregory@example.com,"63886 Carter Shoal Apt. 305
+South Danielle, TN 26648",Dubai,Kuwait,Equipment Supplier,C,Net 15,10,4.6,0.94,944,402261.91,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.793212
+SUP3435,Scania Parts,Samantha Ellison,962.607.0890x1589,shill@example.net,"4624 Jerry Points Suite 487
+Annettemouth, MA 43312",Jeddah,Bahrain,Parts Supplier,A+,COD,4,4.1,0.963,341,9978888.12,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.793893
+SUP2664,Total,William Brown,001-691-847-2517,nmccann@example.org,"8530 Justin Harbors
+Kimstad, FM 25106",Riyadh,UAE,Fuel Supplier,B+,Net 15,5,4.8,0.906,99,4226404.08,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.794500
+SUP8175,Maintenance Services,Amanda Hobbs,(887)408-8443,shannon99@example.org,"76814 Brown Shoal
+Clarkshire, MH 31168",Kuwait,UAE,Service Provider,B,Net 30,18,5.0,0.905,832,5090646.61,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.795112
+SUP1746,Maintenance Services,Timothy Griffith,001-652-302-7543,robert09@example.net,"978 Kaiser Streets
+Williamsonfort, MT 75924",Riyadh,Kuwait,Service Provider,B+,Net 15,19,4.5,0.85,44,3561017.73,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.795716
+SUP9656,Transportation,Jessica Lloyd,+1-500-431-3294x8061,kenneth45@example.com,"9326 Dorsey Brook Suite 290
+South Sherryburgh, MI 16910",Riyadh,Saudi Arabia,Logistics Partner,B,COD,5,4.6,0.945,222,5081160.72,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.796336
+SUP8128,Scania Parts,Jaime Medina,789.886.2863x12397,jacksonjennifer@example.org,"9344 Jerry Route Apt. 697
+Port Carl, VA 44006",Riyadh,Kuwait,Parts Supplier,C,Net 30,11,4.2,0.977,871,7116366.31,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.797785
+SUP8877,MAN Parts,Julie Patterson,(799)646-5188x124,zbaker@example.net,"350 Yang Oval
+East Robert, ND 79769",Jeddah,UAE,Parts Supplier,B,COD,21,3.9,0.95,300,3585538.56,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.798844
+SUP2353,Safety Equipment,Gregory Howard,5734831772,zstein@example.org,"1180 Hebert Summit
+North Ericstad, TX 94980",Dubai,Saudi Arabia,Equipment Supplier,A,COD,1,3.6,0.971,115,5928870.92,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.799651
+SUP1971,Logistics Services,Bobby Turner,445.539.0286,xriley@example.org,"793 Anderson Villages
+East Joseph, GA 45511",Dubai,Saudi Arabia,Service Provider,B,Net 30,16,4.7,0.873,352,914485.32,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.800283
+SUP5754,Mercedes Parts,Erica Mullins,001-335-872-5885x0383,tonya34@example.org,"Unit 6813 Box 8593
+DPO AE 17673",Doha,Saudi Arabia,Parts Supplier,C,COD,16,4.2,0.974,426,6767054.85,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.800664
+SUP4803,Iveco Parts,Lisa Hunt,5159986203,allison07@example.org,"15570 Weaver Groves Apt. 567
+East Chadfort, HI 11563",Doha,Bahrain,Parts Supplier,A,Net 15,19,4.5,0.877,126,9049144.2,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.801274
+SUP7796,Chevron,Oscar Mcfarland,546-403-2517,moralesnicholas@example.org,"7525 Brown Rapid Apt. 494
+Sanchezmouth, UT 37094",Dubai,Bahrain,Fuel Supplier,A+,Prepaid,24,4.9,0.942,70,1663681.35,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.802010
+SUP6891,Consulting Services,Jeremy Baker,001-969-214-0517x66873,david74@example.net,"3127 Karen Turnpike Apt. 158
+North Wendy, GU 92189",Riyadh,Saudi Arabia,Service Provider,A+,Net 30,18,4.8,0.901,772,3508066.63,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.802575
+SUP4419,Technology Equipment,Spencer Graham,751-927-2078,alexis68@example.org,"64201 Eugene Village Apt. 047
+East Brianland, NV 73129",Kuwait,UAE,Equipment Supplier,A,Prepaid,22,4.0,0.853,272,446993.41,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.803143
+SUP6720,Shell,Luke Hopkins,001-311-336-1915x832,daynicholas@example.org,"3016 Christensen Burg
+West Carriestad, IA 57608",Doha,Saudi Arabia,Fuel Supplier,B+,Prepaid,10,4.8,0.925,874,9631034.84,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.803830
+SUP7346,Consulting Services,Carla Mooney,+1-768-742-3968x4610,jocelynfreeman@example.org,"840 Hawkins Burgs
+South Donaldport, HI 24595",Dubai,Kuwait,Service Provider,B,Net 15,23,4.6,0.9,630,7401384.4,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.804518
+SUP5829,Technology Equipment,Justin Singh,(544)995-7039,brianawilliams@example.org,"PSC 9737, Box 2587
+APO AE 76602",Riyadh,Bahrain,Equipment Supplier,A+,Net 30,4,4.1,0.921,285,2914651.68,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.804987
+SUP4576,Heavy Equipment,Donald Mitchell,7122193431,icook@example.com,"89661 James Burg Suite 655
+West Lawrencemouth, PW 46077",Dammam,Kuwait,Equipment Supplier,B+,Net 30,14,4.8,0.978,510,9499926.33,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.805592
+SUP3295,Shell,Anthony Morris,+1-987-290-5073x583,derrick07@example.org,"62278 Vickie Camp
+West Anthonychester, MP 48748",Riyadh,Saudi Arabia,Fuel Supplier,A,Net 15,7,4.5,0.881,733,4953472.19,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.806142
+SUP2297,Maintenance Services,Anna Scott,001-470-283-0698x470,wprice@example.org,"5802 Richard Squares
+Harmonton, OR 60201",Jeddah,Kuwait,Service Provider,B+,Prepaid,29,4.5,0.889,224,4585670.26,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.806750
+SUP4395,Maintenance Services,Philip Lee,944-766-7524x2387,tonyweiss@example.com,"615 Barbara Pines
+Averychester, MI 62052",Doha,UAE,Service Provider,A+,COD,20,4.9,0.976,641,4980946.81,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.807430
+SUP7661,Mercedes Parts,Curtis Davis Jr.,001-953-471-3396x161,zbell@example.net,"4796 Solis Hill Suite 428
+Monicaton, KY 51851",Dubai,Kuwait,Parts Supplier,A+,COD,29,5.0,0.912,826,9746517.63,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.808070
+SUP2934,Shell,Charlotte Williams,001-398-781-6538x466,taylorbaker@example.com,"1274 Tina Mall Suite 884
+Heatherburgh, NE 50594",Riyadh,Qatar,Fuel Supplier,A,COD,21,4.5,0.946,972,399405.11,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.808734
+SUP8472,Safety Equipment,Christopher Morales,(392)508-0672,samuel26@example.net,"USNV Chan
+FPO AP 89007",Doha,Kuwait,Equipment Supplier,A+,Net 30,16,4.4,0.89,149,4687542.54,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.809199
+SUP9471,Warehousing,John Hernandez,544.589.2027,johnsoncindy@example.net,"67436 Stone Rapid Suite 138
+Mcdanielshire, AL 06579",Dammam,UAE,Logistics Partner,B+,Net 30,2,4.7,0.87,75,7907718.55,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.809919
+SUP6935,Logistics Services,Tamara Callahan,001-442-686-4605,matthewcross@example.net,"023 Ellis Crossroad
+Wilsonhaven, AL 36134",Riyadh,Qatar,Service Provider,A+,Prepaid,21,3.8,0.887,791,9913822.77,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.810623
+SUP7611,Maintenance Services,Morgan Lopez,927-730-9198x6040,kevingarcia@example.net,"61806 Moore Plaza
+Port Jamesburgh, WI 13004",Kuwait,Bahrain,Service Provider,B+,Net 30,2,4.3,0.968,641,5176014.42,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.811332
+SUP6953,Logistics Services,Elizabeth Mason,(550)985-6302x9946,dominiqueshaw@example.org,"5986 Wood Hills
+New Michaelland, WV 54782",Kuwait,Kuwait,Service Provider,C,Net 15,12,4.7,0.888,758,6340108.51,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.812021
+SUP8761,MAN Parts,Wendy Short,328.886.1237,wrightjonathan@example.com,"232 Luna Tunnel Suite 247
+Elizabethberg, GA 84227",Jeddah,UAE,Parts Supplier,C,COD,22,4.9,0.933,893,3243237.52,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.812710
+SUP3630,Logistics Services,Jessica Williams,(979)464-9998x444,dmorgan@example.net,"7634 Sara Valleys
+Nguyenshire, IL 01219",Kuwait,Kuwait,Service Provider,B+,Net 15,29,3.8,0.962,847,2799245.29,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.813619
+SUP5157,Warehousing,Laurie Espinoza,3023275622,robert68@example.net,"USCGC Aguilar
+FPO AA 60047",Jeddah,Qatar,Logistics Partner,B,Net 30,7,4.6,0.979,311,4992192.16,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.816979
+SUP9244,Warehousing,Mr. Robert Harris,+1-938-550-6031x99678,xowen@example.net,"USNV Stout
+FPO AP 90257",Kuwait,Bahrain,Logistics Partner,A,Net 15,8,4.9,0.876,848,4866625.37,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.817552
+SUP4775,Technology Equipment,Dawn Jackson,6086772443,colejoel@example.org,"929 Bailey Estates
+Port Julia, ID 43810",Dammam,Kuwait,Equipment Supplier,A,Prepaid,7,4.2,0.964,760,3536187.14,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.818264
+SUP6873,Maintenance Services,John Davis,+1-554-822-6753x0827,patrickcobb@example.com,"77402 Love Canyon Apt. 946
+North Samantha, KY 32861",Dubai,Qatar,Service Provider,A,COD,28,4.9,0.877,582,9721581.26,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.818974
+SUP3248,Safety Equipment,Kyle Scott,507.318.1558x0187,andersonalejandro@example.net,"1454 Jennifer Summit Apt. 160
+Triciachester, FL 73893",Dammam,UAE,Equipment Supplier,A,Prepaid,28,4.4,0.954,628,4149389.65,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.819650
+SUP9588,MAN Parts,Cynthia Andrews,7823116799,usmith@example.net,"PSC 6753, Box 5817
+APO AP 80959",Dammam,Kuwait,Parts Supplier,C,Net 30,18,3.6,0.976,725,1095844.24,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.820206
+SUP9966,Safety Equipment,Christopher Smith,7474178421,mmunoz@example.com,"83705 Vincent Walk
+South Adamview, IN 53607",Dammam,Kuwait,Equipment Supplier,C,Net 15,18,4.9,0.863,174,6574477.18,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.821045
+SUP8162,Consulting Services,Douglas Johnson,001-979-766-5617x31022,suarezsean@example.org,"037 Davies Tunnel Suite 477
+South Vanessamouth, WA 49932",Riyadh,Bahrain,Service Provider,A+,COD,24,3.6,0.866,111,714417.76,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.822502
+SUP1011,Chevron,Charles Newman,+1-737-710-6579x9978,pollardlaurie@example.net,"3788 Blair Course Suite 439
+West Rodneychester, AL 14142",Dubai,Qatar,Fuel Supplier,A+,Prepaid,12,4.4,0.856,376,9762129.66,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.824533
+SUP9458,Distribution,Kenneth Smith,(246)749-4408x4845,angelpark@example.net,"267 Garcia Prairie
+Aprilport, HI 86653",Dubai,Qatar,Logistics Partner,B+,COD,8,4.3,0.914,136,3744930.73,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.825821
+SUP1261,MAN Parts,Daniel Kim,2798442832,caitlinramirez@example.com,"07202 Jackson Ways
+Port Seth, WI 72107",Dubai,Qatar,Parts Supplier,C,Net 30,30,3.9,0.928,313,3582489.97,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.826578
+SUP5019,Distribution,Charles Rush,4042644543,brendalove@example.net,"184 Becky Pine Suite 638
+Donaldfort, NJ 05064",Dubai,Kuwait,Logistics Partner,B,Prepaid,15,4.1,0.853,349,7605864.24,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.827249
+SUP6828,Total,Brittany Harris,001-473-614-2140x592,amandachambers@example.org,"1811 Theresa Drives Apt. 945
+South Jacquelineburgh, FM 87293",Doha,Bahrain,Fuel Supplier,A+,Net 15,29,4.1,0.86,146,484009.77,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.827940
+SUP2953,Safety Equipment,Bruce Blankenship,575.577.2936,michellebowen@example.com,"77940 Sharon Harbor Suite 512
+Port Garyland, AK 39217",Dubai,Qatar,Equipment Supplier,B+,Prepaid,24,5.0,0.907,896,3769859.19,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.828612
+SUP6901,Maintenance Services,Courtney Christensen,(857)716-7519x3689,danielwilson@example.net,"983 Rebecca Rest Apt. 425
+Port Ryanland, OK 06143",Doha,Qatar,Service Provider,A+,Net 15,28,3.8,0.972,145,5391022.74,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.829282
+SUP1621,Safety Equipment,Carol Cobb,+1-510-281-0860x14824,molly59@example.com,"0656 Perez Creek
+Boyletown, PW 54264",Jeddah,Bahrain,Equipment Supplier,B,Net 30,9,4.3,0.91,569,1634223.55,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.829904
+SUP9003,Technology Equipment,Jonathan Petty,(890)591-4690x3448,michaelsmith@example.net,"5817 Marshall Dale
+Andrewmouth, PR 67798",Kuwait,Saudi Arabia,Equipment Supplier,B,Net 30,25,5.0,0.894,451,1486243.34,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.832733
+SUP1044,Logistics Services,Andrew Mullins,238.507.6704,summerstracey@example.net,"7591 Krystal Ranch
+Jenniferbury, VT 91253",Jeddah,UAE,Service Provider,A+,Net 30,8,4.5,0.902,983,9205840.08,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.833491
+SUP6929,Consulting Services,Sara Haney MD,665-324-4691x125,amyrichardson@example.com,"033 Allen Fields
+North Christopher, WI 30052",Kuwait,Bahrain,Service Provider,A,Prepaid,15,4.4,0.877,958,4632320.56,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.834227
+SUP6565,Logistics Services,Taylor Ingram,776.832.2881,john05@example.org,"676 Mark Groves
+Port Steven, VI 74512",Jeddah,UAE,Service Provider,B,Prepaid,2,3.7,0.957,160,1311347.78,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.834778
+SUP8300,Transportation,Paul Rogers,292-454-8213x02996,hernandezthomas@example.net,"8881 Jason Forge
+Marshallton, KS 68257",Doha,Kuwait,Logistics Partner,B,COD,10,4.4,0.972,491,8776348.18,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.835467
+SUP7256,Shell,Yvonne Hughes,001-488-731-5553x2523,robertsilva@example.com,"42843 Chambers Causeway Apt. 970
+West Kimberly, SC 83280",Doha,UAE,Fuel Supplier,A+,Net 30,4,4.6,0.905,84,2243183.98,"['ISO 9001', 'ISO 14001', 'OHSAS 18001', 'API Certification', 'CE Marking']",2025-10-04T21:15:16.836189

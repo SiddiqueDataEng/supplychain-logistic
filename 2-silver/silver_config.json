@@ -1,0 +1,32 @@
+{
+  "azure_storage": {
+    "account_name": "adls4aldreesanalytics",
+    "connection_string": "BlobEndpoint=https://adls4aldreesanalytics.blob.core.windows.net/;QueueEndpoint=https://adls4aldreesanalytics.queue.core.windows.net/;FileEndpoint=https://adls4aldreesanalytics.file.core.windows.net/;TableEndpoint=https://adls4aldreesanalytics.table.core.windows.net/;SharedAccessSignature=sv=2024-11-04&ss=bfqt&srt=sco&sp=rwdlacupyx&se=2025-10-30T22:33:33Z&st=2025-10-05T14:18:33Z&spr=https,http&sig=wY1x4qc%2By12F0C7%2FPCLf2DobgMLlflwB2VEbWKu1DhE%3D",
+    "bronze_container": "bronze",
+    "silver_container": "silver",
+    "sas_token": "sv=2024-11-04&ss=bfqt&srt=sco&sp=rwdlacupyx&se=2025-10-30T22:33:33Z&st=2025-10-05T14:18:33Z&spr=https,http&sig=wY1x4qc%2By12F0C7%2FPCLf2DobgMLlflwB2VEbWKu1DhE%3D"
+
+
+  },
+  "data_transformation": {
+    "clean_column_names": true,
+    "standardize_data_types": true,
+    "remove_duplicates": true,
+    "handle_missing_values": true,
+    "add_processing_metadata": true
+  },
+  "missing_value_handling": {
+    "numeric_fill_method": "median",
+    "categorical_fill_method": "mode",
+    "default_fill_value": "Unknown"
+  },
+  "data_quality": {
+    "min_rows_threshold": 1,
+    "max_missing_percentage": 50,
+    "validate_data_types": true
+  },
+  "logging": {
+    "level": "INFO",
+    "log_file": "silver_layer_processing.log"
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "year=2025/month=10/day=04/fuel_20251004_211516.csv": {
+    "processed_timestamp": "2025-10-06T09:36:08.508634",
+    "silver_blob_name": "year=2025/month=10/day=04/fuel_20251004_211516_silver.csv",
+    "row_count": 20000,
+    "column_count": 31
+  },
+  "year=2025/month=10/day=04/fuel_20251004_235043.csv": {
+    "processed_timestamp": "2025-10-06T09:36:19.164746",
+    "silver_blob_name": "year=2025/month=10/day=04/fuel_20251004_235043_silver.csv",
+    "row_count": 10000,
+    "column_count": 31
+  },
+  "year=2025/month=10/day=04/fulfillment_20251004_211516.csv": {
+    "processed_timestamp": "2025-10-06T09:36:28.771377",
+    "silver_blob_name": "year=2025/month=10/day=04/fulfillment_20251004_211516_silver.csv",
+    "row_count": 10000,
+    "column_count": 24
+  },
+  "year=2025/month=10/day=04/fulfillment_20251004_235043.csv": {
+    "processed_timestamp": "2025-10-06T09:36:33.879964",
+    "silver_blob_name": "year=2025/month=10/day=04/fulfillment_20251004_235043_silver.csv",
+    "row_count": 5000,
+    "column_count": 24
+  },
+  "year=2025/month=10/day=04/inventory_20251004_211516.csv": {
+    "processed_timestamp": "2025-10-06T09:36:36.156149",
+    "silver_blob_name": "year=2025/month=10/day=04/inventory_20251004_211516_silver.csv",
+    "row_count": 3000,
+    "column_count": 20
+  },
+  "year=2025/month=10/day=04/inventory_20251004_235043.csv": {
+    "processed_timestamp": "2025-10-06T09:36:37.930234",
+    "silver_blob_name": "year=2025/month=10/day=04/inventory_20251004_235043_silver.csv",
+    "row_count": 1500,
+    "column_count": 20
+  },
+  "year=2025/month=10/day=04/maintenance_20251004_211516.csv": {
+    "processed_timestamp": "2025-10-06T09:36:42.727325",
+    "silver_blob_name": "year=2025/month=10/day=04/maintenance_20251004_211516_silver.csv",
+    "row_count": 2000,
+    "column_count": 24
+  },
+  "year=2025/month=10/day=04/maintenance_20251004_235043.csv": {
+    "processed_timestamp": "2025-10-06T09:36:45.503455",
+    "silver_blob_name": "year=2025/month=10/day=04/maintenance_20251004_235043_silver.csv",
+    "row_count": 1000,
+    "column_count": 24
+  },
+  "year=2025/month=10/day=04/order_items_20251004_211516.csv": {
+    "processed_timestamp": "2025-10-06T09:36:59.512121",
+    "silver_blob_name": "year=2025/month=10/day=04/order_items_20251004_211516_silver.csv",
+    "row_count": 25000,
+    "column_count": 18
+  },
+  "year=2025/month=10/day=04/order_items_20251004_235043.csv": {
+    "processed_timestamp": "2025-10-06T09:37:06.570372",
+    "silver_blob_name": "year=2025/month=10/day=04/order_items_20251004_235043_silver.csv",
+    "row_count": 12500,
+    "column_count": 18
+  },
+  "year=2025/month=10/day=04/orders_20251004_211516.csv": {
+    "processed_timestamp": "2025-10-06T09:37:17.140180",
+    "silver_blob_name": "year=2025/month=10/day=04/orders_20251004_211516_silver.csv",
+    "row_count": 12000,
+    "column_count": 25
+  },
+  "year=2025/month=10/day=04/orders_20251004_235043.csv": {
+    "processed_timestamp": "2025-10-06T09:37:23.355828",
+    "silver_blob_name": "year=2025/month=10/day=04/orders_20251004_235043_silver.csv",
+    "row_count": 6000,
+    "column_count": 25
+  },
+  "year=2025/month=10/day=04/performance_20251004_211516.csv": {
+    "processed_timestamp": "2025-10-06T09:37:25.406268",
+    "silver_blob_name": "year=2025/month=10/day=04/performance_20251004_211516_silver.csv",
+    "row_count": 2000,
+    "column_count": 48
+  },
+  "year=2025/month=10/day=04/performance_20251004_235043.csv": {
+    "processed_timestamp": "2025-10-06T09:37:26.654816",
+    "silver_blob_name": "year=2025/month=10/day=04/performance_20251004_235043_silver.csv",
+    "row_count": 1000,
+    "column_count": 48
+  },
+  "year=2025/month=10/day=04/routes_20251004_211516.csv": {
+    "processed_timestamp": "2025-10-06T09:37:44.595152",
+    "silver_blob_name": "year=2025/month=10/day=04/routes_20251004_211516_silver.csv",
+    "row_count": 15000,
+    "column_count": 38
+  },
+  "year=2025/month=10/day=04/routes_20251004_235043.csv": {
+    "processed_timestamp": "2025-10-06T09:37:54.861878",
+    "silver_blob_name": "year=2025/month=10/day=04/routes_20251004_235043_silver.csv",
+    "row_count": 7500,
+    "column_count": 38
+  },
+  "year=2025/month=10/day=04/schedules_20251004_211516.csv": {
+    "processed_timestamp": "2025-10-06T09:37:59.855396",
+    "silver_blob_name": "year=2025/month=10/day=04/schedules_20251004_211516_silver.csv",
+    "row_count": 8000,
+    "column_count": 18
+  },
+  "year=2025/month=10/day=04/schedules_20251004_235043.csv": {
+    "processed_timestamp": "2025-10-06T09:38:03.315050",
+    "silver_blob_name": "year=2025/month=10/day=04/schedules_20251004_235043_silver.csv",
+    "row_count": 4000,
+    "column_count": 18
+  },
+  "year=2025/month=10/day=04/suppliers_20251004_211516.csv": {
+    "processed_timestamp": "2025-10-06T09:38:04.396642",
+    "silver_blob_name": "year=2025/month=10/day=04/suppliers_20251004_211516_silver.csv",
+    "row_count": 500,
+    "column_count": 22
+  },
+  "year=2025/month=10/day=04/suppliers_20251004_235043.csv": {
+    "processed_timestamp": "2025-10-06T09:38:05.125808",
+    "silver_blob_name": "year=2025/month=10/day=04/suppliers_20251004_235043_silver.csv",
+    "row_count": 250,
+    "column_count": 22
+  },
+  "year=2025/month=10/day=04/supply_chain_metrics_20251004_211516.csv": {
+    "processed_timestamp": "2025-10-06T09:38:06.309601",
+    "silver_blob_name": "year=2025/month=10/day=04/supply_chain_metrics_20251004_211516_silver.csv",
+    "row_count": 1000,
+    "column_count": 29
+  },
+  "year=2025/month=10/day=04/supply_chain_metrics_20251004_235043.csv": {
+    "processed_timestamp": "2025-10-06T09:38:07.045084",
+    "silver_blob_name": "year=2025/month=10/day=04/supply_chain_metrics_20251004_235043_silver.csv",
+    "row_count": 500,
+    "column_count": 29
+  },
+  "year=2025/month=10/day=04/telemetry_20251004_211516.csv": {
+    "processed_timestamp": "2025-10-06T09:38:34.883678",
+    "silver_blob_name": "year=2025/month=10/day=04/telemetry_20251004_211516_silver.csv",
+    "row_count": 50000,
+    "column_count": 24
+  },
+  "year=2025/month=10/day=04/telemetry_20251004_235043.csv": {
+    "processed_timestamp": "2025-10-06T09:38:51.730734",
+    "silver_blob_name": "year=2025/month=10/day=04/telemetry_20251004_235043_silver.csv",
+    "row_count": 25000,
+    "column_count": 24
+  },
+  "year=2025/month=10/day=04/vehicles_20251004_211516.csv": {
+    "processed_timestamp": "2025-10-06T09:38:53.712682",
+    "silver_blob_name": "year=2025/month=10/day=04/vehicles_20251004_211516_silver.csv",
+    "row_count": 1000,
+    "column_count": 31
+  },
+  "year=2025/month=10/day=04/vehicles_20251004_235043.csv": {
+    "processed_timestamp": "2025-10-06T09:38:55.466336",
+    "silver_blob_name": "year=2025/month=10/day=04/vehicles_20251004_235043_silver.csv",
+    "row_count": 500,
+    "column_count": 31
+  },
+  "year=2025/month=10/day=04/warehouses_20251004_211516.csv": {
+    "processed_timestamp": "2025-10-06T09:39:08.530231",
+    "silver_blob_name": "year=2025/month=10/day=04/warehouses_20251004_211516_silver.csv",
+    "row_count": 10200,
+    "column_count": 38
+  },
+  "year=2025/month=10/day=04/warehouses_20251004_235043.csv": {
+    "processed_timestamp": "2025-10-06T09:39:13.943477",
+    "silver_blob_name": "year=2025/month=10/day=04/warehouses_20251004_235043_silver.csv",
+    "row_count": 5100,
+    "column_count": 38
+  }
+}
